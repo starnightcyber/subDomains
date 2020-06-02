@@ -1,0 +1,2031 @@
+2008.sina.com.cn	202.102.94.124
+100.sina.com.cn	203.130.33.10
+1.sina.com.cn	121.14.32.154
+2010.sina.com.cn	202.102.94.124
+2014.sina.com.cn	202.102.94.124
+2012.sina.com.cn	202.102.94.124
+3g.sina.com.cn	221.179.175.207
+8.sina.com.cn	49.7.36.118
+a1.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+a.sina.com.cn	123.126.45.68
+a2.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+a3.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+ad.sina.com.cn	202.102.94.124
+ad2.sina.com.cn	202.106.184.162
+ads.sina.com.cn	202.102.94.124
+ah.sina.com.cn	202.102.94.124
+air.sina.com.cn	49.7.36.27
+album.sina.com.cn	49.7.37.89
+alumni.sina.com.cn	203.130.33.5
+amc.sina.com.cn	123.125.29.158
+ams.sina.com.cn	202.106.169.153
+analytics.sina.com.cn	202.106.182.245
+andromeda.sina.com.cn	218.30.20.174, 221.235.54.29, 61.172.201.216
+angel.sina.com.cn	123.125.31.237
+antares.sina.com.cn	218.30.66.108, 218.30.66.109, 218.30.66.110, 218.30.66.111, 218.30.66.112, 218.30.66.113, 218.30.66.114, 218.30.66.115, 218.30.66.116, 218.30.66.117, 218.30.66.118, 218.30.66.119, 218.30.66.120, 218.30.66.121, 218.30.66.122, 218.30.66.71
+antispam.sina.com.cn	202.106.182.148
+api.sina.com.cn	121.14.32.168
+app.sina.com.cn	121.14.32.168
+apps.sina.com.cn	121.14.32.168
+aquarius.sina.com.cn	60.215.128.202
+ar.sina.com.cn	202.102.94.124
+aq.sina.com.cn	58.63.236.212
+aries.sina.com.cn	58.63.237.124
+astro.sina.com.cn	202.102.94.124
+ask.sina.com.cn	202.108.43.234
+atlas.sina.com.cn	121.14.1.11
+auto.sina.com.cn	202.102.94.124
+auth.sina.com.cn	180.149.134.158
+baby.sina.com.cn	202.102.94.124
+b2b.sina.com.cn	202.108.37.51
+b.sina.com.cn	58.63.237.124
+ba.sina.com.cn	49.7.36.118
+baike.sina.com.cn	218.57.9.167
+bank.sina.com.cn	219.142.78.64
+bar.sina.com.cn	49.7.36.118
+bbs2.sina.com.cn	202.108.44.25
+bbs.sina.com.cn	202.102.94.124
+bb.sina.com.cn	202.108.44.46
+beacon.sina.com.cn	121.14.32.157, 121.14.32.170, 183.60.95.206, 183.60.95.251
+beijing.sina.com.cn	202.102.94.124
+baoming.sina.com.cn	180.149.134.154
+bill.sina.com.cn	202.102.94.124
+bj.sina.com.cn	202.102.94.124
+biz.sina.com.cn	121.14.32.168
+blog.sina.com.cn	114.80.223.60
+bn.sina.com.cn	202.102.94.124
+book.sina.com.cn	202.102.94.124
+boy.sina.com.cn	61.135.153.167
+bus.sina.com.cn	219.142.78.36, 219.142.78.37
+campus.sina.com.cn	61.172.201.176
+car.sina.com.cn	202.106.182.228
+card.sina.com.cn	218.30.115.159
+cbt.sina.com.cn	168.160.224.103
+cha.sina.com.cn	202.108.43.238
+chat.sina.com.cn	125.76.244.227
+che.sina.com.cn	121.14.32.168
+chongqing.sina.com.cn	202.102.94.124
+cj.sina.com.cn	121.14.32.168
+city.sina.com.cn	202.102.94.124
+classic.sina.com.cn	123.125.31.237
+click.sina.com.cn	58.63.238.81
+client.sina.com.cn	121.14.32.154
+cloud.sina.com.cn	121.14.32.154
+club.sina.com.cn	202.108.33.23
+cm.sina.com.cn	211.99.198.30
+cns.sina.com.cn	202.106.184.192
+collection.sina.com.cn	202.102.94.124
+college.sina.com.cn	218.30.66.101
+comic.sina.com.cn	202.102.94.124
+counter.sina.com.cn	219.142.78.222
+corp.sina.com.cn	202.102.94.124
+cq.sina.com.cn	202.102.94.124
+crm.sina.com.cn	202.108.37.141
+csl.sina.com.cn	202.102.94.124
+csi.sina.com.cn	183.60.92.46
+cs.sina.com.cn	202.102.94.124
+ct.sina.com.cn	218.206.86.39
+d1.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+d3.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+d4.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+d5.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+d6.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+d.sina.com.cn	202.102.94.124
+d7.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+dalian.sina.com.cn	202.102.94.124
+dell.sina.com.cn	202.106.182.161
+develop.sina.com.cn	61.135.153.17
+digi.sina.com.cn	202.102.94.124
+dir.sina.com.cn	202.108.43.238
+dj.sina.com.cn	121.14.32.168
+dl.sina.com.cn	202.102.94.124
+dot.sina.com.cn	61.135.153.225
+dp.sina.com.cn	121.14.32.168
+download.sina.com.cn	113.108.216.237
+e.sina.com.cn	121.14.32.168
+ec.sina.com.cn	202.102.94.124
+edu.sina.com.cn	202.102.94.124
+elite.sina.com.cn	202.108.35.198
+email.sina.com.cn	202.108.35.227
+emarketing.sina.com.cn	121.14.32.168
+ent.sina.com.cn	202.102.94.124
+euro.sina.com.cn	202.102.94.124
+ex.sina.com.cn	121.14.32.168
+exmail.sina.com.cn	49.7.36.125
+fashion.sina.com.cn	202.102.94.124
+feeds.sina.com.cn	202.108.33.23
+feed.sina.com.cn	121.14.32.154
+fee.sina.com.cn	202.108.35.187
+feedback.sina.com.cn	218.30.108.241
+ff.sina.com.cn	202.102.94.124
+fh.sina.com.cn	202.108.37.43
+finance.sina.com.cn	202.102.94.124
+fj.sina.com.cn	202.102.94.124
+fo.sina.com.cn	202.102.94.124
+forum.sina.com.cn	202.102.94.124
+foundation.sina.com.cn	121.14.32.168
+friends.sina.com.cn	202.108.43.224
+fs.sina.com.cn	202.102.94.124
+fujian.sina.com.cn	202.102.94.124
+fund.sina.com.cn	121.14.32.154
+fun.sina.com.cn	202.102.94.124
+g.sina.com.cn	202.102.94.124
+fy.sina.com.cn	49.7.36.27
+games.sina.com.cn	202.102.94.124
+game.sina.com.cn	202.102.94.124
+gd.sina.com.cn	202.102.94.124
+gemini.sina.com.cn	61.172.207.51, 61.172.207.52, 61.172.207.53, 61.172.207.54, 61.172.207.57, 61.172.207.58, 61.172.207.59, 61.172.207.60, 61.172.207.61, 61.172.207.62, 61.172.207.64, 61.172.207.65, 61.172.207.66, 61.172.207.69, 61.172.207.70, 61.172.207.71
+geo.sina.com.cn	202.102.94.124
+go.sina.com.cn	202.102.94.124
+gongyi.sina.com.cn	202.102.94.124
+gold.sina.com.cn	202.106.182.158
+golf.sina.com.cn	202.102.94.124
+gov.sina.com.cn	202.102.94.124
+green.sina.com.cn	202.102.94.124
+group.sina.com.cn	202.108.43.231
+gs.sina.com.cn	202.102.94.124
+guangzhou.sina.com.cn	202.106.184.145
+gz.sina.com.cn	202.102.94.124
+gx.sina.com.cn	202.102.94.124
+hb.sina.com.cn	202.102.94.124
+hd.sina.com.cn	49.7.36.27
+help.sina.com.cn	49.7.36.27
+health.sina.com.cn	202.102.94.124
+hebei.sina.com.cn	202.102.94.124
+history.sina.com.cn	202.102.94.124
+hlj.sina.com.cn	202.102.94.124
+hn.sina.com.cn	202.102.94.124
+home.sina.com.cn	202.102.94.124
+holiday.sina.com.cn	202.102.94.124
+hot.sina.com.cn	202.106.182.252
+house.sina.com.cn	123.59.190.209, 123.59.190.212
+housing.sina.com.cn	61.172.201.149
+hotspot.sina.com.cn	202.102.94.124
+hubei.sina.com.cn	202.102.94.124
+hydra.sina.com.cn	218.30.108.226
+i3.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+i.sina.com.cn	180.149.138.190, 58.63.236.212
+idata.sina.com.cn	180.149.138.249
+image2.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+image3.sina.com.cn	61.135.153.56
+image1.sina.com.cn	61.135.153.16
+imap.sina.com.cn	121.14.32.133
+indus.sina.com.cn	218.30.66.10, 218.30.66.11, 218.30.66.12, 218.30.66.13, 218.30.66.14, 218.30.66.15, 218.30.66.16, 218.30.66.18, 218.30.66.19, 218.30.66.20, 218.30.66.81, 218.30.66.82, 218.30.66.83, 218.30.66.84, 218.30.66.85, 218.30.66.86
+indigo.sina.com.cn	121.14.32.168
+inter.sina.com.cn	202.102.94.124
+ip.sina.com.cn	61.172.207.32
+ipad.sina.com.cn	202.102.94.124
+ir.sina.com.cn	202.102.94.124
+iphone.sina.com.cn	218.206.86.221
+ivr.sina.com.cn	218.206.86.53
+java.sina.com.cn	210.200.138.129
+jl.sina.com.cn	202.102.94.124
+jj.sina.com.cn	202.108.37.43
+job.sina.com.cn	202.102.94.124
+jr.sina.com.cn	121.14.32.168
+js.sina.com.cn	202.108.35.179
+junshi.sina.com.cn	202.102.94.124
+k.sina.com.cn	49.7.36.41
+jupiter.sina.com.cn	61.172.201.194, 61.172.201.195, 61.172.201.237, 61.172.201.239
+ka.sina.com.cn	121.14.32.168
+jx.sina.com.cn	202.102.94.124
+kid.sina.com.cn	202.102.94.124
+l.sina.com.cn	218.30.108.115
+lady.sina.com.cn	202.102.94.124
+lb1.sina.com.cn	219.142.66.87
+lh.sina.com.cn	202.108.37.43
+libra.sina.com.cn	202.108.33.83, 202.108.33.84, 202.108.33.85, 202.108.33.86, 202.108.33.87, 202.108.33.88, 202.108.33.90, 202.108.33.91, 202.108.33.92, 202.108.33.93, 202.108.33.94, 202.108.33.95, 202.108.33.96, 202.108.33.97, 202.108.33.98, 202.108.33.99
+life.sina.com.cn	49.7.36.27
+lineage2.sina.com.cn	61.152.151.103
+lining.sina.com.cn	121.14.32.168
+live.sina.com.cn	121.14.32.154
+log.sina.com.cn	61.135.153.70
+login.sina.com.cn	180.149.138.190, 58.63.236.212
+ln.sina.com.cn	202.102.94.124
+local.sina.com.cn	202.106.182.208
+lottery.sina.com.cn	202.102.94.124
+love.sina.com.cn	61.135.153.113
+lt.sina.com.cn	218.206.86.39
+lucky.sina.com.cn	220.194.63.78
+lvyou.sina.com.cn	47.105.143.86
+lv.sina.com.cn	47.105.143.86
+m.sina.com.cn	202.102.94.124
+mail.sina.com.cn	121.14.32.168
+mall.sina.com.cn	121.14.32.168
+man.sina.com.cn	202.102.94.124
+map.sina.com.cn	39.156.6.79
+maps.sina.com.cn	202.106.182.208
+market.sina.com.cn	121.14.32.154
+mark.sina.com.cn	218.30.66.101
+match.sina.com.cn	49.7.36.27
+mbox.sina.com.cn	218.206.86.238
+members.sina.com.cn	180.149.138.190, 58.63.236.212
+member.sina.com.cn	202.106.184.168
+merchant.sina.com.cn	202.106.184.248
+metis.sina.com.cn	121.14.32.168
+mf.sina.com.cn	121.14.32.154
+mil.sina.com.cn	121.14.32.154
+misc.sina.com.cn	218.206.86.11
+mm.sina.com.cn	202.108.43.224
+mn.sina.com.cn	202.102.94.124
+mobile.sina.com.cn	202.102.94.124
+money.sina.com.cn	202.102.94.124
+monitor.sina.com.cn	202.106.184.131
+mp3.sina.com.cn	115.182.70.137
+mp.sina.com.cn	183.60.92.36
+mu.sina.com.cn	180.149.139.248, 180.149.153.187, 49.7.40.131, 49.7.40.133
+muse.sina.com.cn	123.126.42.251
+music.sina.com.cn	180.149.139.248, 180.149.153.187, 49.7.40.131, 49.7.40.133
+my.sina.com.cn	49.7.36.27
+nb.sina.com.cn	202.102.94.124
+nc.sina.com.cn	219.142.66.90
+nba.sina.com.cn	202.102.94.124
+news.sina.com.cn	202.102.94.124
+nike.sina.com.cn	61.135.153.31
+nm.sina.com.cn	202.102.94.124
+nms.sina.com.cn	49.7.36.27
+nokia.sina.com.cn	121.14.32.168
+ns1.sina.com.cn	202.106.184.166
+ns2.sina.com.cn	180.149.138.199
+ns3.sina.com.cn	123.125.29.99
+ns4.sina.com.cn	121.14.1.22
+nx.sina.com.cn	202.102.94.124
+nv.sina.com.cn	219.142.66.82
+office.sina.com.cn	47.105.143.86
+ok.sina.com.cn	121.46.248.88
+orders.sina.com.cn	202.106.184.238
+orion.sina.com.cn	219.142.66.90
+partner.sina.com.cn	121.14.32.168
+party.sina.com.cn	202.108.43.224
+passport.sina.com.cn	58.63.236.212
+pay.sina.com.cn	114.141.133.197
+payment.sina.com.cn	202.106.184.249
+people.sina.com.cn	202.102.94.124
+pet.sina.com.cn	202.102.94.124
+photo.sina.com.cn	202.102.94.124
+photos.sina.com.cn	61.135.153.167
+picture.sina.com.cn	61.135.153.167
+pictures.sina.com.cn	61.135.153.167
+platform.sina.com.cn	49.7.36.27
+play.sina.com.cn	121.14.32.168
+pn.sina.com.cn	58.63.237.124
+polaris.sina.com.cn	202.108.33.107
+point.sina.com.cn	121.14.32.168
+pop.sina.com.cn	121.14.32.133
+pop3.sina.com.cn	121.14.32.133
+publish.sina.com.cn	121.14.32.154
+q.sina.com.cn	114.80.223.60
+qd.sina.com.cn	202.102.94.124
+qp.sina.com.cn	121.14.32.168
+quotes.sina.com.cn	121.14.32.168
+radio.sina.com.cn	61.135.153.170
+rd.sina.com.cn	61.135.153.85
+rm.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+rock.sina.com.cn	123.125.31.237
+route.sina.com.cn	202.108.37.88
+rss.sina.com.cn	202.102.94.124
+run.sina.com.cn	202.102.94.124
+s.sina.com.cn	121.46.248.88, 122.226.47.94
+rw.sina.com.cn	202.108.43.216
+s3.sina.com.cn	113.108.216.237
+sae.sina.com.cn	61.172.201.27, 61.172.201.28
+sanguo.sina.com.cn	123.125.31.237
+sc.sina.com.cn	202.102.94.124
+school.sina.com.cn	61.144.244.103
+sea.sina.com.cn	121.14.32.168
+search.sina.com.cn	121.14.32.168
+sd.sina.com.cn	202.102.94.124
+sec.sina.com.cn	121.14.32.154
+see.sina.com.cn	202.102.94.124
+security.sina.com.cn	58.63.236.212
+service.sina.com.cn	61.135.152.127
+sh.sina.com.cn	202.102.94.124
+shenzhen.sina.com.cn	202.102.94.124
+share.sina.com.cn	101.227.97.163, 121.46.248.88
+shipin.sina.com.cn	202.102.94.124
+shop.sina.com.cn	218.30.108.115
+show.sina.com.cn	115.231.22.125, 121.46.247.254, 183.131.107.149
+shanghai.sina.com.cn	202.102.94.124
+sl.sina.com.cn	202.108.35.232
+sme.sina.com.cn	121.14.1.11
+smtp.sina.com.cn	49.7.36.22
+sn.sina.com.cn	202.108.37.43
+sns.sina.com.cn	202.108.33.23
+sol.sina.com.cn	219.142.78.64
+space.sina.com.cn	49.7.36.113
+sports.sina.com.cn	202.102.94.124
+sport.sina.com.cn	202.102.94.124
+sso.sina.com.cn	180.149.138.190, 58.63.236.212
+star.sina.com.cn	61.135.153.37
+stage.sina.com.cn	49.7.36.27
+stat.sina.com.cn	61.135.153.19
+stats.sina.com.cn	202.106.184.198
+stock.sina.com.cn	121.14.32.168
+storage.sina.com.cn	202.108.33.42
+style.sina.com.cn	202.102.94.124
+support.sina.com.cn	61.135.152.128
+survey.sina.com.cn	121.14.32.154
+sx.sina.com.cn	202.102.94.124
+sys.sina.com.cn	202.106.184.186
+sz.sina.com.cn	202.102.94.124
+t.sina.com.cn	180.149.134.141, 180.149.134.142
+tap.sina.com.cn	121.14.32.168
+taurus.sina.com.cn	61.172.201.16, 61.172.201.17, 61.172.201.18, 61.172.201.19, 61.172.201.20, 61.172.201.237, 61.172.201.239
+tcl.sina.com.cn	202.108.33.34
+tech.sina.com.cn	202.102.94.124
+tiger.sina.com.cn	218.30.114.84
+time.sina.com.cn	121.14.32.168
+tips.sina.com.cn	202.106.182.204, 202.106.182.205, 202.106.182.206
+tj.sina.com.cn	202.102.94.124
+top.sina.com.cn	49.7.36.27
+tools.sina.com.cn	202.102.94.124
+tour.sina.com.cn	202.108.35.176
+tracker.sina.com.cn	58.63.235.22, 58.63.235.29, 58.63.235.52, 58.63.237.195, 58.63.237.201
+travel.sina.com.cn	202.102.94.124
+trip.sina.com.cn	202.108.35.26
+tuan.sina.com.cn	202.102.94.124
+tu.sina.com.cn	202.108.43.251
+tuya.sina.com.cn	219.136.241.131
+uni.sina.com.cn	49.7.36.27
+us.sina.com.cn	202.102.94.124
+uranus.sina.com.cn	218.30.108.232, 218.30.66.101, 218.30.66.102, 61.172.201.194, 61.172.201.195
+ut.sina.com.cn	202.102.94.124
+uu.sina.com.cn	202.108.37.148, 202.108.37.149, 202.108.37.150, 202.108.37.161
+v.sina.com.cn	49.7.36.41
+va.sina.com.cn	121.14.1.188
+vela.sina.com.cn	219.142.66.90
+video.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+vg.sina.com.cn	202.102.94.124
+vip.sina.com.cn	49.7.36.118
+vip1.sina.com.cn	202.108.44.35
+vip2.sina.com.cn	202.108.44.36
+visitor.sina.com.cn	49.7.40.174
+vod.sina.com.cn	61.172.201.156
+vogue.sina.com.cn	202.102.94.124
+vote.sina.com.cn	121.14.32.154
+wap.sina.com.cn	218.206.86.237
+wap2.sina.com.cn	202.108.44.61
+web.sina.com.cn	202.108.35.188
+weather.sina.com.cn	121.14.32.154
+weibo.sina.com.cn	202.102.94.124
+wf.sina.com.cn	61.135.153.12, 61.135.153.13, 61.135.153.14, 61.135.153.15
+wiki.sina.com.cn	101.227.97.163, 121.46.248.88
+wifi.sina.com.cn	202.102.94.124
+widget.sina.com.cn	218.30.115.134
+women.sina.com.cn	202.102.94.124
+woman.sina.com.cn	202.102.94.124
+wow.sina.com.cn	202.102.94.124
+wt.sina.com.cn	202.108.43.251
+www.sina.com.cn	202.102.94.124
+ww.sina.com.cn	61.135.153.194
+www1.sina.com.cn	202.106.184.219
+x.sina.com.cn	49.7.36.58
+wx.sina.com.cn	202.102.94.124
+x8.sina.com.cn	49.7.36.58
+xj.sina.com.cn	202.102.94.124
+y.sina.com.cn	202.102.94.124
+xyz.sina.com.cn	202.102.94.124
+yn.sina.com.cn	202.102.94.124
+yuan.sina.com.cn	202.108.33.26
+yule.sina.com.cn	202.102.94.124
+yz.sina.com.cn	202.108.37.43
+z.sina.com.cn	49.7.36.58
+zb.sina.com.cn	121.14.32.168
+zeus.sina.com.cn	61.135.153.202, 61.135.153.203, 61.135.153.204, 61.135.153.205, 61.135.153.206, 61.135.153.207, 61.135.153.214, 61.135.153.215, 61.135.153.216, 61.135.153.217, 61.135.153.219, 61.135.153.220, 61.135.153.221, 61.135.153.222, 61.135.153.223, 61.135.153.226
+zhaopin.sina.com.cn	202.108.226.76
+zj.sina.com.cn	202.102.94.124
+0.email.sina.com.cn	202.108.37.31
+0.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+0.q.sina.com.cn	114.80.223.60
+0.sys.sina.com.cn	202.106.184.186
+0.vip.sina.com.cn	202.108.35.157
+0.wap.sina.com.cn	202.108.35.165
+0.web.sina.com.cn	202.108.35.191
+1.email.sina.com.cn	202.108.37.31
+1.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+1.q.sina.com.cn	114.80.223.60
+1.sys.sina.com.cn	202.106.184.186
+1.wap.sina.com.cn	202.108.35.165
+1.web.sina.com.cn	202.108.35.191
+1.vip.sina.com.cn	202.108.35.157
+2.email.sina.com.cn	202.108.37.31
+2.q.sina.com.cn	114.80.223.60
+2.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+2.sys.sina.com.cn	202.106.184.186
+2.wap.sina.com.cn	202.108.35.165
+2.web.sina.com.cn	202.108.35.191
+2.vip.sina.com.cn	202.108.35.157
+3.email.sina.com.cn	202.108.37.31
+3.q.sina.com.cn	114.80.223.60
+3.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+3.sys.sina.com.cn	202.106.184.186
+3.wap.sina.com.cn	202.108.35.165
+3.vip.sina.com.cn	202.108.35.157
+3.web.sina.com.cn	202.108.35.191
+3g.email.sina.com.cn	202.108.37.31
+3g.mall.sina.com.cn	219.142.78.210
+3g.q.sina.com.cn	114.80.223.60
+3g.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+3g.sys.sina.com.cn	202.106.184.186
+3g.wap.sina.com.cn	202.108.35.165
+3g.vip.sina.com.cn	202.108.35.157
+3g.web.sina.com.cn	202.108.35.191
+4.email.sina.com.cn	202.108.37.31
+4.q.sina.com.cn	114.80.223.60
+4.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+4.sys.sina.com.cn	202.106.184.186
+4.web.sina.com.cn	202.108.35.191
+4.vip.sina.com.cn	202.108.35.157
+4.wap.sina.com.cn	202.108.35.165
+4g.email.sina.com.cn	202.108.37.31
+4g.q.sina.com.cn	114.80.223.60
+4g.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+4g.sys.sina.com.cn	202.106.184.186
+4g.vip.sina.com.cn	202.108.35.157
+4g.wap.sina.com.cn	202.108.35.165
+4g.web.sina.com.cn	202.108.35.191
+5.email.sina.com.cn	202.108.37.31
+5.q.sina.com.cn	114.80.223.60
+5.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+5.sys.sina.com.cn	202.106.184.186
+5.vip.sina.com.cn	202.108.35.157
+5.wap.sina.com.cn	202.108.35.165
+5.web.sina.com.cn	202.108.35.191
+5g.email.sina.com.cn	202.108.37.31
+5g.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+5g.q.sina.com.cn	114.80.223.60
+5g.sys.sina.com.cn	202.106.184.186
+5g.wap.sina.com.cn	202.108.35.165
+5g.vip.sina.com.cn	202.108.35.157
+5g.web.sina.com.cn	202.108.35.191
+6.email.sina.com.cn	202.108.37.31
+6.q.sina.com.cn	114.80.223.60
+6.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+6.sys.sina.com.cn	202.106.184.186
+6.vip.sina.com.cn	202.108.35.157
+6.wap.sina.com.cn	202.108.35.165
+6.web.sina.com.cn	202.108.35.191
+7.email.sina.com.cn	202.108.37.31
+7.q.sina.com.cn	114.80.223.60
+7.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+7.sys.sina.com.cn	202.106.184.186
+7.vip.sina.com.cn	202.108.35.157
+7.wap.sina.com.cn	202.108.35.165
+7.web.sina.com.cn	202.108.35.191
+8.email.sina.com.cn	202.108.37.31
+8.q.sina.com.cn	114.80.223.60
+8.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+8.sys.sina.com.cn	202.106.184.186
+8.vip.sina.com.cn	202.108.35.157
+8.wap.sina.com.cn	202.108.35.165
+8.web.sina.com.cn	202.108.35.191
+9.email.sina.com.cn	202.108.37.31
+9.q.sina.com.cn	114.80.223.60
+9.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+9.sys.sina.com.cn	202.106.184.186
+9.vip.sina.com.cn	202.108.35.157
+9.wap.sina.com.cn	202.108.35.165
+9.web.sina.com.cn	202.108.35.191
+a.email.sina.com.cn	202.108.37.31
+a.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+a.q.sina.com.cn	114.80.223.60
+a.sys.sina.com.cn	202.106.184.186
+a.wap.sina.com.cn	202.108.35.165
+a.vip.sina.com.cn	202.108.35.157
+a.x8.sina.com.cn	49.7.36.58
+a.web.sina.com.cn	202.108.35.191
+activity.email.sina.com.cn	202.108.37.31
+activity.q.sina.com.cn	114.80.223.60
+activity.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+activity.wap.sina.com.cn	202.108.35.165
+activity.vip.sina.com.cn	202.108.35.157
+activity.web.sina.com.cn	202.108.35.191
+adm.bar.sina.com.cn	202.108.43.235
+adm.email.sina.com.cn	202.108.37.31
+adm.q.sina.com.cn	114.80.223.60
+adm.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+adm.sys.sina.com.cn	202.106.184.186
+adm.vip.sina.com.cn	202.108.35.157
+adm.wap.sina.com.cn	202.108.35.165
+adm.web.sina.com.cn	202.108.35.191
+admin.client.sina.com.cn	202.108.33.33
+admin.edu.sina.com.cn	61.135.152.128
+admin.email.sina.com.cn	202.108.37.31
+admin.gd.sina.com.cn	121.14.1.109
+admin.l.sina.com.cn	218.30.108.115
+admin.pn.sina.com.cn	202.108.33.33
+admin.q.sina.com.cn	114.80.223.60
+admin.show.sina.com.cn	218.30.114.76
+admin.sys.sina.com.cn	202.106.184.186
+admin.survey.sina.com.cn	202.108.35.62
+admin.vip.sina.com.cn	202.108.35.157
+admin.wap.sina.com.cn	202.108.35.165
+admin.web.sina.com.cn	202.108.35.191
+adminht.email.sina.com.cn	202.108.37.31
+adminht.q.sina.com.cn	114.80.223.60
+adminht.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+adminht.sys.sina.com.cn	202.106.184.186
+adminht.vip.sina.com.cn	202.108.35.157
+adminht.wap.sina.com.cn	202.108.35.165
+adminht.web.sina.com.cn	202.108.35.191
+api.ad.sina.com.cn	123.126.45.68
+api.email.sina.com.cn	202.108.37.31
+api.g.sina.com.cn	121.14.32.168
+api.games.sina.com.cn	121.14.32.168
+api.jr.sina.com.cn	121.14.32.168
+api.map.sina.com.cn	180.149.135.37
+api.mp.sina.com.cn	49.7.37.123
+api.mail.sina.com.cn	49.7.36.27
+api.news.sina.com.cn	49.7.36.27
+api.ok.sina.com.cn	121.46.248.88
+api.t.sina.com.cn	180.149.135.176
+api.search.sina.com.cn	121.14.32.168
+api.sys.sina.com.cn	202.106.184.186
+api.video.sina.com.cn	218.30.108.213
+api.vip.sina.com.cn	202.108.35.157
+api.wap.sina.com.cn	202.108.35.165
+api.web.sina.com.cn	202.108.35.191
+api.weather.sina.com.cn	121.14.32.168
+app.blog.sina.com.cn	49.7.37.123
+app.beacon.sina.com.cn	202.106.184.164
+app.email.sina.com.cn	202.108.37.31
+app.finance.sina.com.cn	49.7.36.27
+app.ent.sina.com.cn	121.14.32.154
+app.gongyi.sina.com.cn	60.28.175.120
+app.games.sina.com.cn	121.14.32.168
+app.q.sina.com.cn	114.80.223.60
+app.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+app.show.sina.com.cn	115.231.90.250
+app.sys.sina.com.cn	202.106.184.186
+app.vip.sina.com.cn	202.108.35.157
+app.video.sina.com.cn	121.14.32.154
+app.wap.sina.com.cn	202.108.35.165
+app.web.sina.com.cn	202.108.35.191
+apps.email.sina.com.cn	202.108.37.31
+apps.games.sina.com.cn	121.14.32.168
+apps.q.sina.com.cn	114.80.223.60
+apps.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+apps.sys.sina.com.cn	202.106.184.186
+apps.t.sina.com.cn	180.149.134.217
+apps.vip.sina.com.cn	202.108.35.157
+apps.wap.sina.com.cn	202.108.35.165
+apps.web.sina.com.cn	202.108.35.191
+assets.email.sina.com.cn	202.108.37.31
+assets.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+assets.q.sina.com.cn	114.80.223.60
+assets.sys.sina.com.cn	202.106.184.186
+assets.vip.sina.com.cn	202.108.35.157
+assets.web.sina.com.cn	202.108.35.191
+assets.wap.sina.com.cn	202.108.35.165
+auth.ad.sina.com.cn	49.7.37.103
+auth.email.sina.com.cn	202.108.37.31
+auth.music.sina.com.cn	121.14.1.85
+auth.q.sina.com.cn	114.80.223.60
+auth.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+auth.sys.sina.com.cn	202.106.184.186
+auth.web.sina.com.cn	202.108.35.191
+auth.vip.sina.com.cn	202.108.35.157
+auth.wap.sina.com.cn	202.108.35.165
+autodiscover.email.sina.com.cn	202.108.37.31
+autodiscover.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+autodiscover.q.sina.com.cn	114.80.223.60
+autodiscover.sys.sina.com.cn	202.106.184.186
+autodiscover.vip.sina.com.cn	202.108.35.157
+autodiscover.wap.sina.com.cn	202.108.35.165
+autodiscover.web.sina.com.cn	202.108.35.191
+b.email.sina.com.cn	202.108.37.31
+b.q.sina.com.cn	114.80.223.60
+b.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+b.sys.sina.com.cn	202.106.184.186
+b.wap.sina.com.cn	202.108.35.165
+b.vip.sina.com.cn	202.108.35.157
+b.web.sina.com.cn	202.108.35.191
+b.x8.sina.com.cn	49.7.36.58
+backup.email.sina.com.cn	202.108.37.31
+backup.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+backup.sys.sina.com.cn	202.106.184.186
+backup.q.sina.com.cn	114.80.223.60
+backup.web.sina.com.cn	202.108.35.191
+backup.wap.sina.com.cn	202.108.35.165
+backup.vip.sina.com.cn	202.108.35.157
+bata.email.sina.com.cn	202.108.37.31
+bata.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+bata.q.sina.com.cn	114.80.223.60
+bata.sys.sina.com.cn	202.106.184.186
+bata.wap.sina.com.cn	202.108.35.165
+bata.vip.sina.com.cn	202.108.35.157
+bata.web.sina.com.cn	202.108.35.191
+bbs.2008.sina.com.cn	58.63.238.224
+bbs.3g.sina.com.cn	113.108.216.239
+bbs.auto.sina.com.cn	49.7.36.27
+bbs.2010.sina.com.cn	202.102.94.124
+bbs.baby.sina.com.cn	58.63.238.224
+bbs.astro.sina.com.cn	58.63.238.224
+bbs.bar.sina.com.cn	202.108.3.244
+bbs.bj.sina.com.cn	58.63.238.224
+bbs.club.sina.com.cn	58.63.238.224
+bbs.book.sina.com.cn	58.63.238.224
+bbs.digi.sina.com.cn	49.7.36.27
+bbs.email.sina.com.cn	202.108.37.31
+bbs.ent.sina.com.cn	58.63.238.224
+bbs.edu.sina.com.cn	58.63.238.224
+bbs.dalian.sina.com.cn	49.7.36.27
+bbs.finance.sina.com.cn	58.63.238.224
+bbs.dp.sina.com.cn	121.14.32.168
+bbs.games.sina.com.cn	121.14.32.168
+bbs.fj.sina.com.cn	121.14.1.12
+bbs.gd.sina.com.cn	58.63.237.237
+bbs.gongyi.sina.com.cn	58.63.238.224
+bbs.jl.sina.com.cn	49.7.36.27
+bbs.house.sina.com.cn	123.59.190.240
+bbs.ln.sina.com.cn	49.7.36.27
+bbs.news.sina.com.cn	58.63.238.224
+bbs.qd.sina.com.cn	49.7.36.27
+bbs.q.sina.com.cn	114.80.223.60
+bbs.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+bbs.service.sina.com.cn	58.63.238.224
+bbs.show.sina.com.cn	58.63.238.224
+bbs.sc.sina.com.cn	121.14.1.12
+bbs.sports.sina.com.cn	58.63.238.224
+bbs.sh.sina.com.cn	121.14.1.12
+bbs.sys.sina.com.cn	202.106.184.186
+bbs.tech.sina.com.cn	58.63.238.224
+bbs.vip.sina.com.cn	202.108.35.157
+bbs.wap.sina.com.cn	202.108.35.165
+bbs.tour.sina.com.cn	58.63.238.224
+bbs.web.sina.com.cn	202.108.35.191
+beta.email.sina.com.cn	202.108.37.31
+beta.q.sina.com.cn	114.80.223.60
+beta.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+beta.sys.sina.com.cn	202.106.184.186
+beta.vip.sina.com.cn	202.108.35.157
+beta.wap.sina.com.cn	202.108.35.165
+beta.web.sina.com.cn	202.108.35.191
+blog.2008.sina.com.cn	114.80.223.60
+blog.2010.sina.com.cn	114.80.223.60
+blog.auto.sina.com.cn	202.108.35.176
+blog.baby.sina.com.cn	114.80.223.60
+blog.email.sina.com.cn	202.108.37.31
+blog.fj.sina.com.cn	202.102.94.124
+blog.gd.sina.com.cn	121.14.1.251
+blog.house.sina.com.cn	123.59.190.224
+blog.photo.sina.com.cn	218.30.115.162
+blog.q.sina.com.cn	114.80.223.60
+blog.sys.sina.com.cn	202.106.184.186
+blog.sports.sina.com.cn	114.80.223.60
+blog.t.sina.com.cn	180.149.134.249
+blog.vip.sina.com.cn	202.108.35.157
+blog.wap.sina.com.cn	202.108.35.165
+blog.web.sina.com.cn	202.108.35.191
+boss.email.sina.com.cn	202.108.37.31
+boss.q.sina.com.cn	114.80.223.60
+boss.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+boss.sys.sina.com.cn	202.106.184.186
+boss.wap.sina.com.cn	202.108.35.165
+boss.vip.sina.com.cn	202.108.35.157
+boss.web.sina.com.cn	202.108.35.191
+bug.email.sina.com.cn	202.108.37.31
+bug.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+bug.q.sina.com.cn	114.80.223.60
+bug.show.sina.com.cn	115.231.90.250
+bug.sys.sina.com.cn	202.106.184.186
+bug.vip.sina.com.cn	202.108.35.157
+bug.wap.sina.com.cn	202.108.35.165
+bug.web.sina.com.cn	202.108.35.191
+bugs.email.sina.com.cn	202.108.37.31
+bugs.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+bugs.sys.sina.com.cn	202.106.184.186
+bugs.q.sina.com.cn	114.80.223.60
+bugs.wap.sina.com.cn	202.108.35.165
+bugs.vip.sina.com.cn	202.108.35.157
+bugs.web.sina.com.cn	202.108.35.191
+bugzilla.email.sina.com.cn	202.108.37.31
+bugzilla.q.sina.com.cn	114.80.223.60
+bugzilla.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+bugzilla.sys.sina.com.cn	202.106.184.186
+bugzilla.vip.sina.com.cn	202.108.35.157
+bugzilla.wap.sina.com.cn	202.108.35.165
+bugzilla.web.sina.com.cn	202.108.35.191
+c.blog.sina.com.cn	49.7.36.113
+c.email.sina.com.cn	202.108.37.31
+c.q.sina.com.cn	114.80.223.60
+c.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+c.sys.sina.com.cn	202.106.184.186
+c.vip.sina.com.cn	202.108.35.157
+c.web.sina.com.cn	202.108.35.191
+c.wap.sina.com.cn	202.108.35.165
+c.x8.sina.com.cn	49.7.36.58
+cache.aries.sina.com.cn	121.14.1.20
+cache.atlas.sina.com.cn	121.14.1.20
+cache.email.sina.com.cn	202.108.37.31
+cache.house.sina.com.cn	117.25.134.83, 117.25.134.86, 117.25.134.88, 58.222.37.36, 58.222.37.37, 58.222.37.39, 58.222.37.54
+cache.orion.sina.com.cn	202.106.182.235
+cache.q.sina.com.cn	114.80.223.60
+cache.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+cache.sys.sina.com.cn	202.106.184.186
+cache.vip.sina.com.cn	202.108.35.157
+cache.wap.sina.com.cn	202.108.35.165
+cache.web.sina.com.cn	202.108.35.191
+cas.email.sina.com.cn	202.108.37.31
+cas.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+cas.q.sina.com.cn	114.80.223.60
+cas.sys.sina.com.cn	202.106.184.186
+cas.vip.sina.com.cn	202.108.35.157
+cas.wap.sina.com.cn	202.108.35.165
+cas.web.sina.com.cn	202.108.35.191
+ceshi.email.sina.com.cn	202.108.37.31
+ceshi.q.sina.com.cn	114.80.223.60
+ceshi.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+ceshi.sys.sina.com.cn	202.106.184.186
+ceshi.vip.sina.com.cn	202.108.35.157
+ceshi.wap.sina.com.cn	202.108.35.165
+ceshi.web.sina.com.cn	202.108.35.191
+cms.city.sina.com.cn	49.7.36.27
+cms.email.sina.com.cn	202.108.37.31
+cms.q.sina.com.cn	114.80.223.60
+cms.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+cms.sys.sina.com.cn	202.106.184.186
+cms.vip.sina.com.cn	202.108.35.157
+cms.web.sina.com.cn	202.108.35.191
+cms.wap.sina.com.cn	202.108.35.165
+connect.email.sina.com.cn	202.108.37.31
+connect.monitor.sina.com.cn	49.7.36.71
+connect.q.sina.com.cn	114.80.223.60
+connect.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+connect.sys.sina.com.cn	202.106.184.186
+connect.vip.sina.com.cn	202.108.35.157
+connect.wap.sina.com.cn	202.108.35.165
+connect.web.sina.com.cn	202.108.35.191
+console.email.sina.com.cn	202.108.37.31
+console.q.sina.com.cn	114.80.223.60
+console.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+console.sys.sina.com.cn	202.106.184.186
+console.vip.sina.com.cn	202.108.35.157
+console.web.sina.com.cn	202.108.35.191
+console.wap.sina.com.cn	202.108.35.165
+control.blog.sina.com.cn	49.7.36.113
+control.email.sina.com.cn	202.108.37.31
+control.q.sina.com.cn	114.80.223.60
+control.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+control.sys.sina.com.cn	202.106.184.186
+count.email.sina.com.cn	202.108.37.31
+count.q.sina.com.cn	218.30.115.20
+count.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+count.sys.sina.com.cn	202.106.184.186
+count.video.sina.com.cn	49.7.36.35
+count.vip.sina.com.cn	202.108.35.157
+count.wap.sina.com.cn	202.108.35.165
+count.web.sina.com.cn	202.108.35.191
+counter.blog.sina.com.cn	202.108.33.28
+counter.email.sina.com.cn	202.108.37.31
+counter.photo.sina.com.cn	218.30.115.122
+counter.q.sina.com.cn	114.80.223.60
+counter.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+counter.sys.sina.com.cn	202.106.184.186
+counter.vip.sina.com.cn	202.108.35.157
+counter.wap.sina.com.cn	202.108.35.165
+counter.web.sina.com.cn	202.108.35.191
+cp.email.sina.com.cn	202.108.37.31
+cp.mbox.sina.com.cn	218.206.86.95
+cp.q.sina.com.cn	114.80.223.60
+cp.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+cp.sys.sina.com.cn	202.106.184.186
+cp.wap.sina.com.cn	202.108.35.165
+cp.video.sina.com.cn	49.7.36.27
+cp.web.sina.com.cn	202.108.35.191
+cp.vip.sina.com.cn	202.108.35.157
+crm.email.sina.com.cn	202.108.37.31
+crm.q.sina.com.cn	114.80.223.60
+crm.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+crm.sys.sina.com.cn	202.106.184.186
+crm.wap.sina.com.cn	202.108.35.165
+crm.vip.sina.com.cn	202.108.35.157
+crm.web.sina.com.cn	202.108.35.191
+css.blog.sina.com.cn	219.142.78.182
+css.email.sina.com.cn	202.108.37.31
+css.q.sina.com.cn	114.80.223.60
+css.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+css.sys.sina.com.cn	202.106.184.186
+css.vip.sina.com.cn	202.108.35.157
+css.wap.sina.com.cn	202.108.35.165
+css.web.sina.com.cn	202.108.35.191
+d.email.sina.com.cn	202.108.37.31
+d.ent.sina.com.cn	121.14.32.154
+d.q.sina.com.cn	114.80.223.60
+d.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+d.tech.sina.com.cn	49.7.36.27
+d.sys.sina.com.cn	202.106.184.186
+d.vip.sina.com.cn	202.108.35.157
+d.web.sina.com.cn	202.108.35.191
+d.wap.sina.com.cn	202.108.35.165
+data.3g.sina.com.cn	113.108.216.239
+data.auto.sina.com.cn	121.14.32.154
+data.collection.sina.com.cn	49.7.36.27
+data.email.sina.com.cn	202.108.37.31
+data.ent.sina.com.cn	49.7.36.27
+data.finance.sina.com.cn	121.14.32.168
+data.games.sina.com.cn	218.30.66.101
+data.house.sina.com.cn	117.25.134.82, 117.25.134.83, 117.25.134.85, 117.25.134.86, 117.25.134.87, 117.25.134.88, 117.25.134.89
+data.q.sina.com.cn	114.80.223.60
+data.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+data.sports.sina.com.cn	121.14.32.154
+data.tech.sina.com.cn	49.7.36.27
+data.sys.sina.com.cn	202.106.184.186
+data.travel.sina.com.cn	49.7.36.27
+data.wap.sina.com.cn	202.108.35.165
+data.web.sina.com.cn	202.108.35.191
+data.vip.sina.com.cn	202.108.35.157
+database.email.sina.com.cn	202.108.37.31
+database.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+database.q.sina.com.cn	114.80.223.60
+database.sys.sina.com.cn	202.106.184.186
+database.vip.sina.com.cn	202.108.35.157
+database.wap.sina.com.cn	202.108.35.165
+database.web.sina.com.cn	202.108.35.191
+db.auto.sina.com.cn	49.7.37.127
+db.email.sina.com.cn	202.108.37.31
+db.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+db.q.sina.com.cn	114.80.223.60
+db.sys.sina.com.cn	202.106.184.186
+db.vip.sina.com.cn	202.108.35.157
+db.wap.sina.com.cn	202.108.35.165
+db.web.sina.com.cn	202.108.35.191
+demo.email.sina.com.cn	202.108.37.31
+demo.q.sina.com.cn	114.80.223.60
+demo.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+demo.sys.sina.com.cn	202.106.184.186
+demo.web.sina.com.cn	202.108.35.191
+demo.vip.sina.com.cn	202.108.35.157
+demo.wap.sina.com.cn	202.108.35.165
+dev.email.sina.com.cn	202.108.37.31
+dev.q.sina.com.cn	114.80.223.60
+dev.sys.sina.com.cn	202.106.184.186
+dev.wap.sina.com.cn	202.108.35.165
+dev.vip.sina.com.cn	202.108.35.157
+dev.web.sina.com.cn	202.108.35.191
+dev1.email.sina.com.cn	202.108.37.31
+dev1.q.sina.com.cn	114.80.223.60
+dev1.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+dev1.sys.sina.com.cn	202.106.184.186
+dev1.wap.sina.com.cn	202.108.35.165
+dev1.web.sina.com.cn	202.108.35.191
+dev1.vip.sina.com.cn	202.108.35.157
+dl.auto.sina.com.cn	202.102.94.124
+dl.email.sina.com.cn	202.108.37.31
+dl.games.sina.com.cn	115.223.16.186
+dl.house.sina.com.cn	47.104.243.9
+dl.m.sina.com.cn	113.108.216.237
+dl.q.sina.com.cn	114.80.223.60
+dl.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+dl.sys.sina.com.cn	202.106.184.186
+dl.travel.sina.com.cn	202.102.94.124
+dl.vip.sina.com.cn	202.108.35.157
+dl.web.sina.com.cn	202.108.35.191
+dl.wap.sina.com.cn	202.108.35.165
+docs.email.sina.com.cn	202.108.37.31
+docs.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+docs.q.sina.com.cn	114.80.223.60
+docs.sys.sina.com.cn	202.106.184.186
+docs.wap.sina.com.cn	202.108.35.165
+docs.web.sina.com.cn	202.108.35.191
+docs.vip.sina.com.cn	202.108.35.157
+down.email.sina.com.cn	202.108.37.31
+down.games.sina.com.cn	61.135.153.40
+down.music.sina.com.cn	202.102.94.121, 202.102.94.125
+down.q.sina.com.cn	114.80.223.60
+down.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+down.tech.sina.com.cn	49.7.36.27
+down.sys.sina.com.cn	202.106.184.186
+down.vip.sina.com.cn	202.108.35.157
+down.wap.sina.com.cn	202.108.35.165
+down.web.sina.com.cn	202.108.35.191
+download.email.sina.com.cn	202.108.37.31
+download.games.sina.com.cn	121.14.32.168
+download.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+download.pay.sina.com.cn	202.102.94.121, 202.102.94.125
+download.q.sina.com.cn	114.80.223.60
+download.sys.sina.com.cn	202.106.184.186
+download.video.sina.com.cn	49.7.36.27
+download.wap.sina.com.cn	202.108.35.165
+download.vip.sina.com.cn	202.108.35.157
+download.web.sina.com.cn	202.108.35.191
+downloads.email.sina.com.cn	202.108.37.31
+downloads.q.sina.com.cn	114.80.223.60
+downloads.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+downloads.sys.sina.com.cn	202.106.184.186
+downloads.wap.sina.com.cn	202.108.35.165
+downloads.vip.sina.com.cn	202.108.35.157
+downloads.web.sina.com.cn	202.108.35.191
+e.email.sina.com.cn	202.108.37.31
+e.games.sina.com.cn	121.14.32.168
+e.pay.sina.com.cn	114.141.133.198
+e.q.sina.com.cn	114.80.223.60
+e.search.sina.com.cn	123.125.105.160
+e.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+e.sys.sina.com.cn	202.106.184.186
+e.vip.sina.com.cn	123.125.104.223
+e.wap.sina.com.cn	202.108.35.165
+e.web.sina.com.cn	202.108.35.191
+edit.email.sina.com.cn	202.108.37.31
+edit.q.sina.com.cn	114.80.223.60
+edit.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+edit.sys.sina.com.cn	202.106.184.186
+edit.web.sina.com.cn	202.108.35.191
+edit.vip.sina.com.cn	202.108.35.157
+edit.wap.sina.com.cn	202.108.35.165
+edm.email.sina.com.cn	202.108.37.31
+edm.gd.sina.com.cn	121.14.1.121
+edm.mail.sina.com.cn	218.30.108.80
+edm.q.sina.com.cn	114.80.223.60
+edm.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+edm.sys.sina.com.cn	202.106.184.186
+edm.vip.sina.com.cn	202.108.35.157
+edm.wap.sina.com.cn	202.108.35.165
+edm.web.sina.com.cn	202.108.35.191
+en.email.sina.com.cn	202.108.37.31
+en.q.sina.com.cn	114.80.223.60
+en.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+en.sys.sina.com.cn	202.106.184.186
+en.vip.sina.com.cn	202.108.35.157
+erp.email.sina.com.cn	202.108.37.31
+erp.q.sina.com.cn	114.80.223.60
+erp.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+erp.sys.sina.com.cn	202.106.184.186
+erp.vip.sina.com.cn	202.108.35.157
+erp.web.sina.com.cn	202.108.35.191
+erp.wap.sina.com.cn	202.108.35.165
+exchange.email.sina.com.cn	202.108.37.31
+exchange.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+exchange.q.sina.com.cn	114.80.223.60
+exchange.sys.sina.com.cn	202.106.184.186
+exchange.vip.sina.com.cn	202.108.35.157
+exchange.web.sina.com.cn	202.108.35.191
+exchange.wap.sina.com.cn	202.108.35.165
+f.bar.sina.com.cn	49.7.36.118
+f.email.sina.com.cn	202.108.37.31
+f.ok.sina.com.cn	183.131.73.186
+f.q.sina.com.cn	114.80.223.60
+f.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+f.sys.sina.com.cn	202.106.184.186
+f.wap.sina.com.cn	202.108.35.165
+f.web.sina.com.cn	202.108.35.191
+f.vip.sina.com.cn	202.108.35.157
+feedback.auto.sina.com.cn	121.14.32.168
+feedback.email.sina.com.cn	202.108.37.31
+feedback.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+feedback.q.sina.com.cn	114.80.223.60
+feedback.sys.sina.com.cn	202.106.184.186
+feedback.vip.sina.com.cn	202.108.35.157
+feedback.wap.sina.com.cn	202.108.35.165
+feedback.web.sina.com.cn	202.108.35.191
+files.email.sina.com.cn	202.108.37.31
+files.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+files.q.sina.com.cn	114.80.223.60
+files.sys.sina.com.cn	202.106.184.186
+files.vip.sina.com.cn	202.108.35.157
+files.wap.sina.com.cn	202.108.35.165
+files.web.sina.com.cn	202.108.35.191
+forum.2010.sina.com.cn	49.7.36.27
+forum.baby.sina.com.cn	202.102.94.124
+forum.astro.sina.com.cn	202.108.35.219
+forum.auto.sina.com.cn	202.108.35.219
+forum.bn.sina.com.cn	202.108.35.219
+forum.book.sina.com.cn	121.14.32.168
+forum.chat.sina.com.cn	202.108.35.219
+forum.comic.sina.com.cn	202.108.35.219
+forum.ent.sina.com.cn	202.108.35.219
+forum.edu.sina.com.cn	202.108.35.219
+forum.email.sina.com.cn	202.108.37.31
+forum.finance.sina.com.cn	202.108.35.219
+forum.gd.sina.com.cn	121.14.1.126
+forum.games.sina.com.cn	49.7.36.27
+forum.golf.sina.com.cn	202.108.35.219
+forum.history.sina.com.cn	121.14.32.168
+forum.lady.sina.com.cn	61.135.153.221
+forum.life.sina.com.cn	202.108.35.219
+forum.local.sina.com.cn	202.108.35.219
+forum.man.sina.com.cn	202.108.35.219
+forum.mil.sina.com.cn	202.108.35.219
+forum.mall.sina.com.cn	202.108.35.219
+forum.my.sina.com.cn	61.135.153.164
+forum.news.sina.com.cn	202.108.35.219
+forum.mobile.sina.com.cn	202.108.35.219
+forum.q.sina.com.cn	114.80.223.60
+forum.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+forum.sh.sina.com.cn	61.172.201.157
+forum.see.sina.com.cn	202.108.35.219
+forum.service.sina.com.cn	202.108.35.178
+forum.stock.sina.com.cn	202.108.35.219
+forum.tech.sina.com.cn	202.108.35.219
+forum.sports.sina.com.cn	49.7.36.27
+forum.sys.sina.com.cn	202.106.184.186
+forum.vip.sina.com.cn	202.108.35.157
+forum.web.sina.com.cn	202.108.35.191
+forum.wap.sina.com.cn	202.108.35.165
+forum.y.sina.com.cn	202.108.35.219
+ftp.email.sina.com.cn	202.108.37.31
+ftp.q.sina.com.cn	114.80.223.60
+ftp.vip.sina.com.cn	202.108.3.161
+ftp.wap.sina.com.cn	202.108.35.165
+ftp.web.sina.com.cn	202.108.35.189
+g.email.sina.com.cn	202.108.37.31
+g.q.sina.com.cn	114.80.223.60
+g.show.sina.com.cn	183.131.73.186
+g.sae.sina.com.cn	61.172.201.141, 61.172.201.142
+g.sys.sina.com.cn	202.106.184.186
+g.vip.sina.com.cn	202.108.35.157
+g.web.sina.com.cn	202.108.35.191
+g.wap.sina.com.cn	202.108.35.165
+gateway.email.sina.com.cn	202.108.37.31
+gateway.gd.sina.com.cn	121.14.1.102
+gateway.q.sina.com.cn	114.80.223.60
+gateway.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+gateway.sys.sina.com.cn	202.106.184.186
+gateway.vip.sina.com.cn	202.108.35.157
+gateway.wap.sina.com.cn	202.108.35.165
+gateway.web.sina.com.cn	202.108.35.191
+git.email.sina.com.cn	202.108.37.31
+git.q.sina.com.cn	114.80.223.60
+git.sys.sina.com.cn	202.106.184.186
+git.wap.sina.com.cn	202.108.35.165
+git.web.sina.com.cn	202.108.35.191
+git.vip.sina.com.cn	202.108.35.157
+gm.email.sina.com.cn	202.108.37.31
+gm.games.sina.com.cn	121.14.32.168
+gm.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+gm.q.sina.com.cn	114.80.223.60
+gm.sys.sina.com.cn	202.106.184.186
+gm.wap.sina.com.cn	202.108.35.165
+gm.vip.sina.com.cn	202.108.35.157
+gm.web.sina.com.cn	202.108.35.191
+go.email.sina.com.cn	202.108.37.31
+go.q.sina.com.cn	114.80.223.60
+go.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+go.rss.sina.com.cn	121.14.32.154
+go.sys.sina.com.cn	202.106.184.186
+go.vip.sina.com.cn	202.108.35.157
+go.web.sina.com.cn	202.108.35.191
+go.wap.sina.com.cn	202.108.35.165
+h.email.sina.com.cn	202.108.37.31
+h.house.sina.com.cn	47.104.243.9
+h.q.sina.com.cn	114.80.223.60
+h.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+h.sys.sina.com.cn	202.106.184.186
+h.wap.sina.com.cn	202.108.35.165
+h.web.sina.com.cn	202.108.35.191
+h.vip.sina.com.cn	202.108.35.157
+help.email.sina.com.cn	202.108.37.31
+help.pay.sina.com.cn	114.141.133.198
+help.q.sina.com.cn	114.80.223.60
+help.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+help.sys.sina.com.cn	202.106.184.186
+help.web.sina.com.cn	202.108.35.191
+help.vip.sina.com.cn	202.108.35.157
+help.wap.sina.com.cn	202.108.35.165
+home.3g.sina.com.cn	218.206.86.113, 218.206.86.114
+home.email.sina.com.cn	202.108.37.31
+home.q.sina.com.cn	114.80.223.60
+home.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+home.sys.sina.com.cn	202.106.184.186
+home.vip.sina.com.cn	202.108.35.157
+home.wap.sina.com.cn	202.108.35.165
+home.web.sina.com.cn	202.108.35.191
+ht.email.sina.com.cn	202.108.37.31
+ht.q.sina.com.cn	114.80.223.60
+ht.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+ht.sys.sina.com.cn	202.106.184.186
+ht.wap.sina.com.cn	202.108.35.165
+ht.vip.sina.com.cn	202.108.35.157
+ht.web.sina.com.cn	202.108.35.191
+i.blog.sina.com.cn	49.7.36.113
+i.auto.sina.com.cn	121.14.32.168
+i.email.sina.com.cn	202.108.37.31
+i.gd.sina.com.cn	49.7.36.27
+i.finance.sina.com.cn	121.14.32.168
+i.house.sina.com.cn	123.59.190.239
+i.q.sina.com.cn	114.80.223.60
+i.show.sina.com.cn	115.231.90.202, 115.231.90.203
+i.sso.sina.com.cn	202.102.94.124
+i.sys.sina.com.cn	202.106.184.186
+i.vip.sina.com.cn	202.108.35.157
+i.travel.sina.com.cn	49.7.36.27
+i.wap.sina.com.cn	202.108.35.165
+i.web.sina.com.cn	202.108.35.191
+id.email.sina.com.cn	202.108.37.31
+id.q.sina.com.cn	114.80.223.60
+id.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+id.sys.sina.com.cn	202.106.184.186
+id.vip.sina.com.cn	202.108.35.157
+id.web.sina.com.cn	202.108.35.191
+id.wap.sina.com.cn	202.108.35.165
+image.3g.sina.com.cn	218.206.86.246
+image.email.sina.com.cn	202.108.37.31
+image.games.sina.com.cn	121.14.32.168
+image.l.sina.com.cn	202.106.184.133
+image.q.sina.com.cn	114.80.223.60
+image.sh.sina.com.cn	61.129.77.194
+image.show.sina.com.cn	210.192.97.201
+image.sys.sina.com.cn	202.106.184.186
+image.wap.sina.com.cn	202.108.35.165
+image.web.sina.com.cn	202.108.35.191
+image.vip.sina.com.cn	202.108.35.157
+imap.email.sina.com.cn	202.108.37.31
+imap.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+imap.q.sina.com.cn	114.80.223.60
+imap.sys.sina.com.cn	202.106.184.186
+imap.wap.sina.com.cn	202.108.35.165
+imap.vip.sina.com.cn	49.7.36.68
+imap.web.sina.com.cn	202.108.35.191
+img.auto.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+img.blog.sina.com.cn	218.30.115.136
+img.email.sina.com.cn	202.108.37.31
+img.house.sina.com.cn	123.59.190.251
+img.q.sina.com.cn	114.80.223.60
+img.pay.sina.com.cn	219.142.118.117
+img.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+img.sys.sina.com.cn	202.106.184.186
+img.vip.sina.com.cn	202.108.35.157
+img.web.sina.com.cn	202.108.35.191
+img.wap.sina.com.cn	202.108.35.165
+img.z.sina.com.cn	113.108.216.237
+img01.email.sina.com.cn	202.108.37.31
+img01.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+img01.q.sina.com.cn	114.80.223.60
+img01.sys.sina.com.cn	202.106.184.186
+img01.vip.sina.com.cn	202.108.35.157
+img01.wap.sina.com.cn	202.108.35.165
+img01.web.sina.com.cn	202.108.35.191
+img02.email.sina.com.cn	202.108.37.31
+img02.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+img02.q.sina.com.cn	114.80.223.60
+img02.sys.sina.com.cn	202.106.184.186
+img02.wap.sina.com.cn	202.108.35.165
+img02.web.sina.com.cn	202.108.35.191
+img02.vip.sina.com.cn	202.108.35.157
+img03.email.sina.com.cn	202.108.37.31
+img03.q.sina.com.cn	114.80.223.60
+img03.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+img03.sys.sina.com.cn	202.106.184.186
+img03.vip.sina.com.cn	202.108.35.157
+img03.wap.sina.com.cn	202.108.35.165
+img03.web.sina.com.cn	202.108.35.191
+img04.email.sina.com.cn	202.108.37.31
+img04.q.sina.com.cn	114.80.223.60
+img04.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+img04.sys.sina.com.cn	202.106.184.186
+img04.vip.sina.com.cn	202.108.35.157
+img04.web.sina.com.cn	202.108.35.191
+img04.wap.sina.com.cn	202.108.35.165
+it.email.sina.com.cn	202.108.37.31
+it.q.sina.com.cn	114.80.223.60
+it.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+it.sys.sina.com.cn	202.106.184.186
+it.vip.sina.com.cn	202.108.35.157
+it.wap.sina.com.cn	202.108.35.165
+it.web.sina.com.cn	202.108.35.191
+j.beacon.sina.com.cn	180.149.134.223
+j.email.sina.com.cn	202.108.37.31
+j.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+j.q.sina.com.cn	114.80.223.60
+j.sys.sina.com.cn	202.106.184.186
+j.vip.sina.com.cn	202.108.35.157
+j.wap.sina.com.cn	202.108.35.165
+j.web.sina.com.cn	202.108.35.191
+jira.email.sina.com.cn	202.108.37.31
+jira.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+jira.q.sina.com.cn	114.80.223.60
+jira.sys.sina.com.cn	202.106.184.186
+jira.vip.sina.com.cn	202.108.35.157
+jira.web.sina.com.cn	202.108.35.191
+jira.wap.sina.com.cn	202.108.35.165
+js.city.sina.com.cn	121.14.32.168
+js.email.sina.com.cn	202.108.37.31
+js.q.sina.com.cn	114.80.223.60
+js.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+js.sys.sina.com.cn	202.106.184.186
+js.wap.sina.com.cn	202.108.35.165
+js.web.sina.com.cn	202.108.35.191
+js.vip.sina.com.cn	202.108.35.157
+k.email.sina.com.cn	202.108.37.31
+k.q.sina.com.cn	114.80.223.60
+k.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+k.sys.sina.com.cn	202.106.184.186
+k.wap.sina.com.cn	202.108.35.165
+k.vip.sina.com.cn	202.108.35.157
+k.web.sina.com.cn	202.108.35.191
+lab.email.sina.com.cn	202.108.37.31
+lab.q.sina.com.cn	114.80.223.60
+lab.sys.sina.com.cn	202.106.184.186
+lab.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+lab.vip.sina.com.cn	202.108.35.157
+lab.wap.sina.com.cn	218.206.86.85
+lab.web.sina.com.cn	202.108.35.191
+ldap.email.sina.com.cn	202.108.37.31
+ldap.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+ldap.q.sina.com.cn	114.80.223.60
+ldap.sys.sina.com.cn	202.106.184.186
+ldap.vip.sina.com.cn	202.108.35.157
+ldap.web.sina.com.cn	202.108.35.191
+ldap.wap.sina.com.cn	202.108.35.165
+lib.email.sina.com.cn	202.108.37.31
+lib.q.sina.com.cn	114.80.223.60
+lib.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+lib.sys.sina.com.cn	202.106.184.186
+lib.vip.sina.com.cn	202.108.35.157
+lib.wap.sina.com.cn	202.108.35.165
+lib.web.sina.com.cn	202.108.35.191
+library.email.sina.com.cn	202.108.37.31
+library.q.sina.com.cn	114.80.223.60
+library.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+library.sys.sina.com.cn	202.106.184.186
+library.vip.sina.com.cn	202.108.35.157
+library.web.sina.com.cn	202.108.35.191
+library.wap.sina.com.cn	202.108.35.165
+list.email.sina.com.cn	202.108.37.31
+list.q.sina.com.cn	114.80.223.60
+list.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+list.show.sina.com.cn	218.30.113.40
+list.sys.sina.com.cn	202.106.184.186
+list.vip.sina.com.cn	202.108.35.157
+list.wap.sina.com.cn	202.108.35.165
+list.web.sina.com.cn	202.108.35.191
+live.2012.sina.com.cn	121.14.32.168
+live.3g.sina.com.cn	113.108.216.239
+live.finance.sina.com.cn	121.14.32.168
+live.email.sina.com.cn	202.108.37.31
+live.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+live.q.sina.com.cn	114.80.223.60
+live.sys.sina.com.cn	202.106.184.186
+live.vip.sina.com.cn	202.108.35.157
+live.t.sina.com.cn	180.149.134.249
+live.web.sina.com.cn	202.108.35.191
+live.wap.sina.com.cn	202.108.35.165
+lm.email.sina.com.cn	202.108.37.31
+lm.sys.sina.com.cn	202.106.184.186
+lm.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+lm.q.sina.com.cn	114.80.223.60
+lm.web.sina.com.cn	202.108.35.191
+lm.vip.sina.com.cn	202.108.35.157
+lm.wap.sina.com.cn	202.108.35.165
+log.auto.sina.com.cn	121.14.32.168
+log.email.sina.com.cn	202.108.37.31
+log.q.sina.com.cn	114.80.223.60
+log.sys.sina.com.cn	202.106.184.186
+log.vod.sina.com.cn	218.30.108.112
+log.wap.sina.com.cn	202.108.35.165
+log.web.sina.com.cn	202.108.35.191
+login.email.sina.com.cn	202.108.37.31
+login.games.sina.com.cn	218.30.66.101
+login.jr.sina.com.cn	124.238.233.85
+login.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+login.q.sina.com.cn	114.80.223.60
+login.show.sina.com.cn	183.131.72.15, 183.131.73.177
+login.sys.sina.com.cn	202.106.184.186
+login.wap.sina.com.cn	202.108.35.165
+login.web.sina.com.cn	202.108.35.191
+login.vip.sina.com.cn	202.108.35.157
+mail.2008.sina.com.cn	121.14.32.168
+mail.email.sina.com.cn	202.108.37.31
+mail.q.sina.com.cn	114.80.223.60
+mail.space.sina.com.cn	202.106.182.227
+mail.sys.sina.com.cn	202.106.184.186
+mail.vip.sina.com.cn	202.108.35.157
+mail.wap.sina.com.cn	61.135.152.129, 61.135.152.130
+mail.web.sina.com.cn	202.108.35.191
+manage.email.sina.com.cn	202.108.37.31
+manage.forum.sina.com.cn	202.106.184.146
+manage.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+manage.q.sina.com.cn	114.80.223.60
+manage.sys.sina.com.cn	202.106.184.186
+manage.vip.sina.com.cn	202.108.35.157
+manage.web.sina.com.cn	202.108.35.191
+manage.wap.sina.com.cn	202.108.35.165
+manager.email.sina.com.cn	202.108.37.31
+manager.q.sina.com.cn	114.80.223.60
+manager.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+manager.sports.sina.com.cn	121.14.32.168
+manager.sys.sina.com.cn	202.106.184.186
+manager.vip.sina.com.cn	202.108.35.157
+manager.wap.sina.com.cn	202.108.35.165
+manager.web.sina.com.cn	202.108.35.191
+master.city.sina.com.cn	202.102.94.124
+master.email.sina.com.cn	202.108.37.31
+master.q.sina.com.cn	114.80.223.60
+master.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+master.sys.sina.com.cn	202.106.184.186
+master.vip.sina.com.cn	202.108.35.157
+master.web.sina.com.cn	202.108.35.191
+master.wap.sina.com.cn	202.108.35.165
+mgr.api.sina.com.cn	218.30.115.177
+mgr.email.sina.com.cn	202.108.37.31
+mgr.q.sina.com.cn	114.80.223.60
+mgr.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+mgr.sys.sina.com.cn	202.106.184.186
+mgr.vip.sina.com.cn	202.108.35.157
+mgr.wap.sina.com.cn	202.108.35.165
+mgr.web.sina.com.cn	202.108.35.191
+monitor.email.sina.com.cn	202.108.37.31
+monitor.q.sina.com.cn	114.80.223.60
+monitor.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+monitor.sys.sina.com.cn	202.106.184.186
+monitor.show.sina.com.cn	203.130.33.31
+monitor.vip.sina.com.cn	202.108.35.157
+monitor.web.sina.com.cn	202.108.35.191
+monitor.wap.sina.com.cn	202.108.35.165
+mysql.email.sina.com.cn	202.108.37.31
+mysql.q.sina.com.cn	114.80.223.60
+mysql.sys.sina.com.cn	202.106.184.186
+mysql.vip.sina.com.cn	202.108.35.157
+mysql.wap.sina.com.cn	202.108.35.165
+mysql.web.sina.com.cn	202.108.35.191
+n.email.sina.com.cn	202.108.37.31
+n.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+n.q.sina.com.cn	114.80.223.60
+n.vip.sina.com.cn	202.108.35.157
+n.sys.sina.com.cn	202.106.184.186
+n.web.sina.com.cn	202.108.35.191
+n.wap.sina.com.cn	202.108.35.165
+nagios.email.sina.com.cn	202.108.37.31
+nagios.q.sina.com.cn	114.80.223.60
+nagios.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+nagios.sys.sina.com.cn	202.106.184.186
+nagios.vip.sina.com.cn	202.108.35.157
+nagios.wap.sina.com.cn	202.108.35.165
+nagios.web.sina.com.cn	202.108.35.191
+new.email.sina.com.cn	202.108.37.31
+new.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+new.q.sina.com.cn	114.80.223.60
+new.sys.sina.com.cn	202.106.184.186
+new.vip.sina.com.cn	202.108.35.157
+new.web.sina.com.cn	202.108.35.191
+new.wap.sina.com.cn	202.108.35.165
+o.email.sina.com.cn	202.108.37.31
+o.gd.sina.com.cn	121.14.1.118
+o.q.sina.com.cn	114.80.223.60
+o.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+o.sys.sina.com.cn	202.106.184.186
+o.vip.sina.com.cn	202.108.35.157
+o.web.sina.com.cn	202.108.35.191
+o.wap.sina.com.cn	202.108.35.165
+oa.email.sina.com.cn	202.108.37.31
+oa.gd.sina.com.cn	121.14.1.118
+oa.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+oa.q.sina.com.cn	114.80.223.60
+oa.vip.sina.com.cn	202.108.35.157
+oa.sys.sina.com.cn	202.106.184.186
+oa.wap.sina.com.cn	202.108.35.165
+oa.web.sina.com.cn	202.108.35.191
+old.blog.sina.com.cn	218.30.115.190
+old.email.sina.com.cn	202.108.37.31
+old.q.sina.com.cn	114.80.223.60
+old.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+old.sys.sina.com.cn	202.106.184.186
+old.vip.sina.com.cn	202.108.35.157
+old.web.sina.com.cn	202.108.35.191
+old.wap.sina.com.cn	202.108.35.165
+p.email.sina.com.cn	202.108.37.31
+p.q.sina.com.cn	114.80.223.60
+p.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+p.sys.sina.com.cn	202.106.184.186
+p.vip.sina.com.cn	202.108.35.157
+p.wap.sina.com.cn	202.108.35.165
+p.web.sina.com.cn	202.108.35.191
+passport.email.sina.com.cn	202.108.37.31
+passport.show.sina.com.cn	115.231.90.250
+passport.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+passport.q.sina.com.cn	114.80.223.60
+passport.sys.sina.com.cn	202.106.184.186
+passport.wap.sina.com.cn	202.108.35.165
+passport.vip.sina.com.cn	202.108.35.157
+passport.web.sina.com.cn	202.108.35.191
+phpmyadmin.email.sina.com.cn	202.108.37.31
+phpmyadmin.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+phpmyadmin.q.sina.com.cn	114.80.223.60
+phpmyadmin.sys.sina.com.cn	202.106.184.186
+phpmyadmin.vip.sina.com.cn	202.108.35.157
+phpmyadmin.wap.sina.com.cn	202.108.35.165
+phpmyadmin.web.sina.com.cn	202.108.35.191
+pic.email.sina.com.cn	202.108.37.31
+pic.lottery.sina.com.cn	121.14.32.154
+pic.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+pic.sc.sina.com.cn	202.102.94.124
+pic.q.sina.com.cn	114.80.223.60
+pic.sys.sina.com.cn	202.106.184.186
+pic.vip.sina.com.cn	202.108.35.157
+pic.wap.sina.com.cn	202.108.35.165
+pic.video.sina.com.cn	180.149.135.232
+pic.web.sina.com.cn	202.108.35.191
+pma.email.sina.com.cn	202.108.37.31
+pma.q.sina.com.cn	114.80.223.60
+pma.vip.sina.com.cn	202.108.35.157
+pma.sys.sina.com.cn	202.106.184.186
+pma.web.sina.com.cn	202.108.35.191
+pma.wap.sina.com.cn	202.108.35.165
+pop.2008.sina.com.cn	202.108.3.227, 202.108.3.228
+pop.email.sina.com.cn	202.108.37.31
+pop.q.sina.com.cn	114.80.223.60
+pop.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+pop.sys.sina.com.cn	202.106.184.186
+pop.vip.sina.com.cn	49.7.36.68
+pop.wap.sina.com.cn	202.108.35.165
+pop.web.sina.com.cn	202.108.35.191
+portal.email.sina.com.cn	202.108.37.31
+portal.q.sina.com.cn	114.80.223.60
+portal.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+portal.sys.sina.com.cn	202.106.184.186
+portal.wap.sina.com.cn	202.108.35.165
+portal.web.sina.com.cn	202.108.35.191
+portal.vip.sina.com.cn	202.108.35.157
+preview.email.sina.com.cn	202.108.37.31
+preview.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+preview.q.sina.com.cn	114.80.223.60
+preview.sys.sina.com.cn	202.106.184.186
+preview.vip.sina.com.cn	202.108.35.157
+preview.web.sina.com.cn	202.108.35.191
+preview.wap.sina.com.cn	202.108.35.165
+profile.blog.sina.com.cn	49.7.36.105
+profile.email.sina.com.cn	202.108.37.31
+profile.q.sina.com.cn	114.80.223.60
+profile.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+profile.sys.sina.com.cn	202.106.184.186
+profile.wap.sina.com.cn	202.108.35.165
+profile.web.sina.com.cn	202.108.35.191
+profile.vip.sina.com.cn	202.108.35.157
+proxy.email.sina.com.cn	202.108.37.31
+proxy.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+proxy.q.sina.com.cn	114.80.223.60
+proxy.sys.sina.com.cn	202.106.184.186
+proxy.web.sina.com.cn	202.108.35.191
+proxy.wap.sina.com.cn	202.108.35.165
+proxy.vip.sina.com.cn	202.108.35.157
+q.astro.sina.com.cn	114.80.223.60
+q.auto.sina.com.cn	114.80.223.60
+q.baby.sina.com.cn	114.80.223.60
+q.book.sina.com.cn	114.80.223.60
+q.blog.sina.com.cn	114.80.223.60
+q.email.sina.com.cn	202.108.37.31
+q.ent.sina.com.cn	114.80.223.60
+q.games.sina.com.cn	114.80.223.60
+q.photo.sina.com.cn	114.80.223.60
+q.lining.sina.com.cn	114.80.223.60
+q.music.sina.com.cn	114.80.223.60
+q.q.sina.com.cn	114.80.223.60
+q.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+q.space.sina.com.cn	114.80.223.60
+q.sports.sina.com.cn	114.80.223.60
+q.sme.sina.com.cn	114.80.223.60
+q.sys.sina.com.cn	202.106.184.186
+q.t.sina.com.cn	180.149.134.249
+q.wap.sina.com.cn	202.108.35.165
+q.vip.sina.com.cn	202.108.35.157
+q.web.sina.com.cn	202.108.35.191
+r.email.sina.com.cn	202.108.37.31
+r.q.sina.com.cn	114.80.223.60
+r.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+r.sys.sina.com.cn	202.106.184.186
+r.vip.sina.com.cn	202.108.35.157
+r.wap.sina.com.cn	202.108.35.165
+res.email.sina.com.cn	202.108.37.31
+res.q.sina.com.cn	114.80.223.60
+res.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+res.sys.sina.com.cn	202.106.184.186
+res.vip.sina.com.cn	202.108.35.157
+res.wap.sina.com.cn	202.108.35.165
+res.web.sina.com.cn	202.108.35.191
+s.auto.sina.com.cn	49.7.37.127
+s.bbs.sina.com.cn	58.63.238.224
+s.beacon.sina.com.cn	113.108.216.19
+s.email.sina.com.cn	202.108.37.31
+s.games.sina.com.cn	202.106.182.163
+s.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+s.q.sina.com.cn	114.80.223.60
+s.sys.sina.com.cn	202.106.184.186
+s.video.sina.com.cn	49.7.36.53
+s.wap.sina.com.cn	202.108.35.165
+s.web.sina.com.cn	202.108.35.191
+s.vip.sina.com.cn	202.108.35.157
+s1.album.sina.com.cn	49.7.37.89
+s1.email.sina.com.cn	202.108.37.31
+s1.match.sina.com.cn	111.161.78.252
+s1.q.sina.com.cn	114.80.223.60
+s1.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+s1.sys.sina.com.cn	202.106.184.186
+s1.vip.sina.com.cn	202.108.35.157
+s1.wap.sina.com.cn	202.108.35.165
+s1.web.sina.com.cn	202.108.35.191
+s1.x.sina.com.cn	49.7.36.58
+s2.album.sina.com.cn	49.7.37.89
+s2.email.sina.com.cn	202.108.37.31
+s2.match.sina.com.cn	111.161.78.252
+s2.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+s2.q.sina.com.cn	114.80.223.60
+s2.sys.sina.com.cn	202.106.184.186
+s2.vip.sina.com.cn	202.108.35.157
+s2.web.sina.com.cn	202.108.35.191
+s2.wap.sina.com.cn	202.108.35.165
+s2.x.sina.com.cn	49.7.36.58
+s3.album.sina.com.cn	49.7.37.89
+s3.api.sina.com.cn	218.30.115.231
+s3.email.sina.com.cn	202.108.37.31
+s3.finance.sina.com.cn	113.108.216.237
+s3.match.sina.com.cn	111.161.78.252
+s3.music.sina.com.cn	113.108.216.237
+s3.q.sina.com.cn	114.80.223.60
+s3.sys.sina.com.cn	202.106.184.186
+s3.vip.sina.com.cn	202.108.35.157
+s3.web.sina.com.cn	202.108.35.191
+s3.wap.sina.com.cn	202.108.35.165
+s3.x.sina.com.cn	49.7.36.58
+sandbox.email.sina.com.cn	202.108.37.31
+sandbox.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+sandbox.q.sina.com.cn	114.80.223.60
+sandbox.sys.sina.com.cn	202.106.184.186
+sandbox.vip.sina.com.cn	202.108.35.157
+sandbox.wap.sina.com.cn	202.108.35.165
+sandbox.web.sina.com.cn	202.108.35.191
+scanner.email.sina.com.cn	202.108.37.31
+scanner.q.sina.com.cn	114.80.223.60
+scanner.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+scanner.sys.sina.com.cn	202.106.184.186
+scanner.vip.sina.com.cn	202.108.35.157
+scanner.wap.sina.com.cn	202.108.35.165
+scanner.web.sina.com.cn	202.108.35.191
+search.2008.sina.com.cn	121.14.32.154
+search.2010.sina.com.cn	121.14.32.168
+search.2012.sina.com.cn	121.14.32.168
+search.baby.sina.com.cn	121.14.32.168
+search.auto.sina.com.cn	202.108.35.176
+search.blog.sina.com.cn	49.7.36.105
+search.email.sina.com.cn	202.108.37.31
+search.forum.sina.com.cn	61.135.153.228
+search.games.sina.com.cn	121.14.32.168
+search.house.sina.com.cn	123.59.190.224
+search.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+search.q.sina.com.cn	114.80.223.60
+search.sh.sina.com.cn	61.135.152.141
+search.sys.sina.com.cn	202.106.184.186
+search.video.sina.com.cn	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+search.travel.sina.com.cn	49.7.36.27
+search.wap.sina.com.cn	202.108.35.165
+search.web.sina.com.cn	202.108.35.191
+search.vip.sina.com.cn	202.108.35.157
+search.yuan.sina.com.cn	219.142.78.193
+service.email.sina.com.cn	202.108.37.31
+service.house.sina.com.cn	123.59.190.240
+service.mail.sina.com.cn	121.14.32.168
+service.photo.sina.com.cn	121.14.32.148
+service.q.sina.com.cn	114.80.223.60
+service.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+service.t.sina.com.cn	180.149.134.141
+service.sys.sina.com.cn	202.106.184.186
+service.vip.sina.com.cn	202.108.35.157
+service.web.sina.com.cn	202.108.35.191
+service.wap.sina.com.cn	202.108.35.165
+share.email.sina.com.cn	202.108.37.31
+share.mp.sina.com.cn	49.7.37.123
+share.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+share.q.sina.com.cn	114.80.223.60
+share.sys.sina.com.cn	202.106.184.186
+share.vip.sina.com.cn	202.108.35.157
+share.wap.sina.com.cn	202.108.35.165
+share.web.sina.com.cn	202.108.35.191
+sms.email.sina.com.cn	202.108.37.31
+sms.house.sina.com.cn	123.59.190.224
+sms.q.sina.com.cn	114.80.223.60
+sms.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+sms.sys.sina.com.cn	202.106.184.186
+sms.vip.sina.com.cn	202.108.35.157
+sms.web.sina.com.cn	202.108.35.191
+sms.wap.sina.com.cn	202.108.35.165
+so.auto.sina.com.cn	121.14.32.168
+so.email.sina.com.cn	202.108.37.31
+so.q.sina.com.cn	114.80.223.60
+so.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+so.sys.sina.com.cn	202.106.184.186
+so.vip.sina.com.cn	202.108.35.157
+so.web.sina.com.cn	202.108.35.191
+so.video.sina.com.cn	49.7.36.114
+so.wap.sina.com.cn	202.108.35.165
+sql.email.sina.com.cn	202.108.37.31
+sql.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+sql.q.sina.com.cn	114.80.223.60
+sql.sys.sina.com.cn	202.106.184.186
+sql.vip.sina.com.cn	202.108.35.157
+sql.web.sina.com.cn	202.108.35.191
+sql.wap.sina.com.cn	202.108.35.165
+ssh.email.sina.com.cn	202.108.37.31
+ssh.sys.sina.com.cn	202.106.184.186
+ssh.q.sina.com.cn	114.80.223.60
+ssh.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+ssh.vip.sina.com.cn	202.108.35.157
+ssh.web.sina.com.cn	202.108.35.191
+ssh.wap.sina.com.cn	202.108.35.165
+sslvpn.email.sina.com.cn	202.108.37.31
+sslvpn.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+sslvpn.q.sina.com.cn	114.80.223.60
+sslvpn.vip.sina.com.cn	202.108.35.157
+sslvpn.sys.sina.com.cn	202.106.184.186
+sslvpn.wap.sina.com.cn	202.108.35.165
+sslvpn.web.sina.com.cn	202.108.35.191
+sso.email.sina.com.cn	202.108.37.31
+sso.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+sso.q.sina.com.cn	114.80.223.60
+sso.sys.sina.com.cn	202.106.184.186
+sso.vip.sina.com.cn	202.108.35.157
+sso.wap.sina.com.cn	202.108.35.165
+sso.web.sina.com.cn	202.108.35.191
+staff.email.sina.com.cn	202.108.37.31
+staff.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+staff.q.sina.com.cn	114.80.223.60
+staff.sys.sina.com.cn	202.106.184.186
+staff.wap.sina.com.cn	202.108.35.165
+staff.web.sina.com.cn	202.108.35.191
+staff.vip.sina.com.cn	202.108.35.157
+stat.blog.sina.com.cn	202.106.184.201
+stat.bbs.sina.com.cn	202.106.184.243
+stat.email.sina.com.cn	202.108.37.31
+stat.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+stat.q.sina.com.cn	114.80.223.60
+stat.show.sina.com.cn	183.131.73.183
+stat.sys.sina.com.cn	202.106.184.186
+stat.wap.sina.com.cn	202.108.35.165
+stat.vip.sina.com.cn	202.108.35.157
+stat.web.sina.com.cn	202.108.35.191
+static.email.sina.com.cn	202.108.37.31
+static.house.sina.com.cn	117.25.134.82, 117.25.134.83, 117.25.134.85, 117.25.134.86, 117.25.134.87, 117.25.134.88, 117.25.134.89
+static.q.sina.com.cn	114.80.223.60
+static.photo.sina.com.cn	49.7.37.89
+static.pay.sina.com.cn	122.226.47.94
+static.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+static.wap.sina.com.cn	202.108.35.165
+static.sys.sina.com.cn	202.106.184.186
+static.vip.sina.com.cn	202.108.35.157
+static.web.sina.com.cn	202.108.35.191
+stats.email.sina.com.cn	202.108.37.31
+stats.q.sina.com.cn	114.80.223.60
+stats.sys.sina.com.cn	202.106.184.186
+stats.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+stats.wap.sina.com.cn	202.108.35.165
+stats.web.sina.com.cn	202.108.35.191
+stats.vip.sina.com.cn	202.108.35.157
+status.email.sina.com.cn	202.108.37.31
+status.q.sina.com.cn	114.80.223.60
+status.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+status.sys.sina.com.cn	202.106.184.186
+status.wap.sina.com.cn	202.108.35.165
+status.vip.sina.com.cn	202.108.35.157
+status.web.sina.com.cn	202.108.35.191
+stmp.email.sina.com.cn	202.108.37.31
+stmp.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+stmp.q.sina.com.cn	114.80.223.60
+stmp.sys.sina.com.cn	202.106.184.186
+stmp.vip.sina.com.cn	202.108.35.157
+stmp.wap.sina.com.cn	202.108.35.165
+stmp.web.sina.com.cn	202.108.35.191
+survey.2008.sina.com.cn	121.14.32.154
+survey.2010.sina.com.cn	121.14.32.154
+survey.auto.sina.com.cn	121.14.32.154
+survey.baby.sina.com.cn	121.14.32.154
+survey.book.sina.com.cn	121.14.32.154
+survey.astro.sina.com.cn	121.14.32.154
+survey.client.sina.com.cn	49.7.36.27
+survey.edu.sina.com.cn	121.14.32.154
+survey.city.sina.com.cn	121.14.32.154
+survey.finance.sina.com.cn	121.14.32.154
+survey.email.sina.com.cn	202.108.37.31
+survey.ent.sina.com.cn	121.14.32.154
+survey.fo.sina.com.cn	121.14.32.154
+survey.news.sina.com.cn	121.14.32.154
+survey.life.sina.com.cn	61.135.153.19
+survey.sports.sina.com.cn	121.14.32.154
+survey.sys.sina.com.cn	202.106.184.186
+survey.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+survey.q.sina.com.cn	114.80.223.60
+survey.tech.sina.com.cn	121.14.32.154
+survey.vip.sina.com.cn	202.108.35.157
+survey.wap.sina.com.cn	202.108.35.165
+survey.web.sina.com.cn	202.108.35.191
+svn.api.sina.com.cn	60.28.113.122
+svn.email.sina.com.cn	202.108.37.31
+svn.q.sina.com.cn	114.80.223.60
+svn.sys.sina.com.cn	202.106.184.186
+svn.vip.sina.com.cn	202.108.35.157
+svn.web.sina.com.cn	202.108.35.191
+svn.wap.sina.com.cn	202.108.35.165
+sys.email.sina.com.cn	202.108.37.31
+sys.house.sina.com.cn	47.104.85.200
+sys.jr.sina.com.cn	49.7.36.27
+sys.music.sina.com.cn	121.14.1.83
+sys.q.sina.com.cn	114.80.223.60
+sys.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+sys.sys.sina.com.cn	202.106.184.186
+sys.vip.sina.com.cn	202.108.35.157
+sys.wap.sina.com.cn	202.108.35.165
+sys.web.sina.com.cn	202.108.35.191
+system.email.sina.com.cn	202.108.37.31
+system.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+system.q.sina.com.cn	114.80.223.60
+system.sys.sina.com.cn	202.106.184.186
+system.vip.sina.com.cn	202.108.35.157
+system.web.sina.com.cn	202.108.35.191
+system.wap.sina.com.cn	202.108.35.165
+t.2010.sina.com.cn	202.102.94.124
+t.auto.sina.com.cn	49.7.36.27
+t.blog.sina.com.cn	49.7.36.27
+t.cj.sina.com.cn	121.14.32.168
+t.email.sina.com.cn	202.108.37.31
+t.fj.sina.com.cn	121.14.32.168
+t.games.sina.com.cn	49.7.36.27
+t.house.sina.com.cn	123.59.190.250
+t.mail.sina.com.cn	60.28.175.32
+t.ok.sina.com.cn	115.231.22.125, 121.46.247.254, 183.131.107.149
+t.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+t.sc.sina.com.cn	202.102.94.124
+t.q.sina.com.cn	114.80.223.60
+t.sys.sina.com.cn	202.106.184.186
+t.web.sina.com.cn	202.108.35.191
+t.vip.sina.com.cn	202.108.35.157
+t.wap.sina.com.cn	202.108.35.165
+test.astro.sina.com.cn	58.63.237.124
+test.email.sina.com.cn	202.108.37.31
+test.edu.sina.com.cn	61.135.153.162
+test.pay.sina.com.cn	222.73.39.38
+test.q.sina.com.cn	114.80.223.60
+test.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+test.sys.sina.com.cn	202.106.184.186
+test.style.sina.com.cn	202.102.94.124
+test.vip.sina.com.cn	202.108.35.157
+test.wap.sina.com.cn	202.108.35.165
+test.web.sina.com.cn	202.108.35.191
+test2.email.sina.com.cn	202.108.37.31
+test2.mall.sina.com.cn	202.106.184.163
+test2.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+test2.q.sina.com.cn	114.80.223.60
+test2.sys.sina.com.cn	202.106.184.186
+test2.wap.sina.com.cn	202.108.35.165
+test2.web.sina.com.cn	202.108.35.191
+test2.vip.sina.com.cn	202.108.35.157
+tool.email.sina.com.cn	202.108.37.31
+tool.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+tool.q.sina.com.cn	114.80.223.60
+tool.sys.sina.com.cn	202.106.184.186
+tool.vip.sina.com.cn	202.108.35.157
+tool.wap.sina.com.cn	202.108.35.165
+tool.web.sina.com.cn	202.108.35.191
+toolbox.email.sina.com.cn	202.108.37.31
+toolbox.q.sina.com.cn	114.80.223.60
+toolbox.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+toolbox.sys.sina.com.cn	202.106.184.186
+toolbox.vip.sina.com.cn	202.108.35.157
+toolbox.web.sina.com.cn	202.108.35.191
+toolbox.wap.sina.com.cn	202.108.35.165
+u.email.sina.com.cn	202.108.37.31
+u.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+u.show.sina.com.cn	183.131.73.214
+u.sys.sina.com.cn	202.106.184.186
+u.travel.sina.com.cn	121.14.32.168
+u.q.sina.com.cn	114.80.223.60
+u.vip.sina.com.cn	202.108.35.157
+u.web.sina.com.cn	202.108.35.191
+u.wap.sina.com.cn	202.108.35.165
+union.blog.sina.com.cn	218.30.115.10
+union.email.sina.com.cn	202.108.37.31
+union.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+union.sys.sina.com.cn	202.106.184.186
+union.q.sina.com.cn	114.80.223.60
+union.vip.sina.com.cn	202.108.35.157
+union.web.sina.com.cn	202.108.35.191
+union.wap.sina.com.cn	202.108.35.165
+update.email.sina.com.cn	202.108.37.31
+update.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+update.show.sina.com.cn	123.103.65.60
+update.sys.sina.com.cn	202.106.184.186
+update.q.sina.com.cn	114.80.223.60
+update.vip.sina.com.cn	202.108.35.157
+update.web.sina.com.cn	202.108.35.191
+update.wap.sina.com.cn	202.108.35.165
+updates.email.sina.com.cn	202.108.37.31
+updates.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+updates.sys.sina.com.cn	202.106.184.186
+updates.q.sina.com.cn	114.80.223.60
+updates.wap.sina.com.cn	202.108.35.165
+updates.web.sina.com.cn	202.108.35.191
+updates.vip.sina.com.cn	202.108.35.157
+upgrade.email.sina.com.cn	202.108.37.31
+upgrade.q.sina.com.cn	114.80.223.60
+upgrade.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+upgrade.sys.sina.com.cn	202.106.184.186
+upgrade.vip.sina.com.cn	202.108.35.157
+upgrade.wap.sina.com.cn	202.108.35.165
+upgrade.web.sina.com.cn	202.108.35.191
+upload.bbs.sina.com.cn	218.30.115.15
+upload.email.sina.com.cn	202.108.37.31
+upload.photo.sina.com.cn	121.14.32.242
+upload.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+upload.q.sina.com.cn	114.80.223.60
+upload.sys.sina.com.cn	202.106.184.186
+upload.v.sina.com.cn	218.30.115.49
+upload.vip.sina.com.cn	202.108.35.157
+upload.wap.sina.com.cn	202.108.35.165
+upload.web.sina.com.cn	202.108.35.191
+user.city.sina.com.cn	121.14.32.168
+user.beacon.sina.com.cn	61.172.207.119
+user.email.sina.com.cn	202.108.37.31
+user.fj.sina.com.cn	49.7.36.27
+user.gd.sina.com.cn	49.7.36.27
+user.q.sina.com.cn	114.80.223.60
+user.sc.sina.com.cn	49.7.36.27
+user.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+user.sh.sina.com.cn	121.14.32.168
+user.sys.sina.com.cn	202.106.184.186
+user.travel.sina.com.cn	121.14.32.168
+user.web.sina.com.cn	202.108.35.191
+user.vip.sina.com.cn	202.108.35.157
+user.wap.sina.com.cn	202.108.35.165
+v.2008.sina.com.cn	49.7.36.41
+user.zj.sina.com.cn	49.7.36.27
+v.email.sina.com.cn	202.108.37.31
+v.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+v.q.sina.com.cn	114.80.223.60
+v.show.sina.com.cn	183.131.73.183
+v.space.sina.com.cn	49.7.36.113
+v.t.sina.com.cn	180.149.138.236
+v.sys.sina.com.cn	202.106.184.186
+v.vip.sina.com.cn	202.108.35.157
+v.wap.sina.com.cn	202.108.35.165
+v.web.sina.com.cn	202.108.35.191
+vip.astro.sina.com.cn	49.7.36.27
+vip.book.sina.com.cn	49.7.37.46
+vip.email.sina.com.cn	202.108.37.31
+vip.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+vip.show.sina.com.cn	183.131.73.247
+vip.q.sina.com.cn	114.80.223.60
+vip.sys.sina.com.cn	202.106.184.186
+vip.vip.sina.com.cn	202.108.35.157
+vip.web.sina.com.cn	202.108.35.191
+vip.wap.sina.com.cn	202.108.35.165
+vote.blog.sina.com.cn	218.30.115.162
+vote.client.sina.com.cn	49.7.36.27
+vote.email.sina.com.cn	202.108.37.31
+vote.gd.sina.com.cn	121.14.1.119
+vote.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+vote.q.sina.com.cn	114.80.223.60
+vote.sys.sina.com.cn	202.106.184.186
+vote.t.sina.com.cn	180.149.134.249
+vote.vip.sina.com.cn	202.108.35.157
+vote.web.sina.com.cn	202.108.35.191
+vote.wap.sina.com.cn	202.108.35.165
+vpn.email.sina.com.cn	202.108.37.31
+vpn.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+vpn.q.sina.com.cn	114.80.223.60
+vpn.sys.sina.com.cn	202.106.184.186
+vpn.wap.sina.com.cn	202.108.35.165
+vpn.vip.sina.com.cn	202.108.35.157
+vpn.web.sina.com.cn	202.108.35.191
+w.email.sina.com.cn	202.108.37.31
+w.q.sina.com.cn	114.80.223.60
+w.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+w.sys.sina.com.cn	202.106.184.186
+w.vip.sina.com.cn	202.108.35.157
+w.wap.sina.com.cn	202.108.35.165
+w.web.sina.com.cn	202.108.35.191
+wap.email.sina.com.cn	202.108.37.31
+wap.forum.sina.com.cn	61.135.152.161
+wap.jr.sina.com.cn	121.14.32.168
+wap.music.sina.com.cn	218.206.86.235
+wap.q.sina.com.cn	114.80.223.60
+wap.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+wap.top.sina.com.cn	49.7.36.27
+wap.sys.sina.com.cn	202.106.184.186
+wap.vip.sina.com.cn	202.108.35.157
+wap.web.sina.com.cn	202.108.35.191
+wap.wap.sina.com.cn	202.108.35.165
+web.3g.sina.com.cn	61.135.152.104
+web.email.sina.com.cn	202.108.37.31
+web.q.sina.com.cn	114.80.223.60
+web.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+web.sys.sina.com.cn	202.106.184.186
+web.wap.sina.com.cn	202.108.35.165
+web.vip.sina.com.cn	202.108.35.157
+web.web.sina.com.cn	202.108.35.191
+webht.email.sina.com.cn	202.108.37.31
+webht.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+webht.q.sina.com.cn	114.80.223.60
+webht.sys.sina.com.cn	202.106.184.186
+webht.wap.sina.com.cn	202.108.35.165
+webht.web.sina.com.cn	202.108.35.191
+webht.vip.sina.com.cn	202.108.35.157
+wechat.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+wechat.q.sina.com.cn	114.80.223.60
+wechat.vip.sina.com.cn	202.108.35.157
+wechat.sys.sina.com.cn	202.106.184.186
+wechat.wap.sina.com.cn	202.108.35.165
+wechat.web.sina.com.cn	202.108.35.191
+wei.email.sina.com.cn	202.108.37.31
+wei.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+wei.sys.sina.com.cn	202.106.184.186
+wei.q.sina.com.cn	114.80.223.60
+wei.vip.sina.com.cn	202.108.35.157
+wei.web.sina.com.cn	202.108.35.191
+wei.wap.sina.com.cn	202.108.35.165
+weixin.email.sina.com.cn	202.108.37.31
+weixin.house.sina.com.cn	123.59.190.240
+weixin.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+weixin.q.sina.com.cn	114.80.223.60
+weixin.sys.sina.com.cn	202.106.184.186
+weixin.vip.sina.com.cn	202.108.35.157
+weixin.web.sina.com.cn	202.108.35.191
+weixin.wap.sina.com.cn	202.108.35.165
+wiki.email.sina.com.cn	202.108.37.31
+wiki.platform.sina.com.cn	219.142.78.179
+wiki.q.sina.com.cn	114.80.223.60
+wiki.sys.sina.com.cn	202.106.184.186
+wiki.vip.sina.com.cn	202.108.35.157
+www.air.sina.com.cn	49.7.36.27
+www.blog.sina.com.cn	114.80.223.60
+www.cq.sina.com.cn	202.102.94.124
+www.ent.sina.com.cn	123.125.31.237
+wiki.wap.sina.com.cn	202.108.35.165
+www.email.sina.com.cn	202.108.37.31
+www.gx.sina.com.cn	121.14.1.141
+www.gd.sina.com.cn	121.14.1.251
+www.fj.sina.com.cn	202.102.94.124
+www.fujian.sina.com.cn	202.102.94.124
+www.hn.sina.com.cn	121.14.1.141
+www.jr.sina.com.cn	121.14.32.168
+www.mall.sina.com.cn	202.106.184.235
+www.house.sina.com.cn	47.105.143.86
+www.nokia.sina.com.cn	121.14.32.168
+www.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+www.sys.sina.com.cn	202.106.184.186
+www.q.sina.com.cn	114.80.223.60
+www.wap.sina.com.cn	202.108.35.165
+www.yn.sina.com.cn	121.14.1.141
+www.vip.sina.com.cn	49.7.36.118
+www.web.sina.com.cn	202.108.35.188
+wx.auto.sina.com.cn	202.102.94.124
+wx.email.sina.com.cn	202.108.37.31
+wx.house.sina.com.cn	47.104.243.9
+wx.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+wx.q.sina.com.cn	114.80.223.60
+wx.sys.sina.com.cn	202.106.184.186
+wx.travel.sina.com.cn	202.102.94.124
+wx.vip.sina.com.cn	202.108.35.157
+wx.web.sina.com.cn	202.108.35.191
+wx.wap.sina.com.cn	202.108.35.165
+x.email.sina.com.cn	202.108.37.31
+x.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+x.sys.sina.com.cn	202.106.184.186
+x.q.sina.com.cn	114.80.223.60
+x.vip.sina.com.cn	202.108.35.157
+x.web.sina.com.cn	202.108.35.191
+x.wap.sina.com.cn	202.108.35.165
+xml.email.sina.com.cn	202.108.37.31
+xml.q.sina.com.cn	114.80.223.60
+xml.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+xml.sys.sina.com.cn	202.106.184.186
+xml.vip.sina.com.cn	202.108.35.157
+xml.wap.sina.com.cn	202.108.35.165
+xml.web.sina.com.cn	202.108.35.191
+y.email.sina.com.cn	202.108.37.31
+y.q.sina.com.cn	114.80.223.60
+y.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+y.sys.sina.com.cn	202.106.184.186
+y.web.sina.com.cn	202.108.35.191
+y.wap.sina.com.cn	202.108.35.165
+y.vip.sina.com.cn	202.108.35.157
+z.email.sina.com.cn	202.108.37.31
+z.q.sina.com.cn	114.80.223.60
+z.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+z.sys.sina.com.cn	202.106.184.186
+z.vip.sina.com.cn	202.108.35.157
+z.wap.sina.com.cn	202.108.35.165
+z.web.sina.com.cn	202.108.35.191
+zabbix.email.sina.com.cn	202.108.37.31
+zabbix.q.sina.com.cn	114.80.223.60
+zabbix.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+zabbix.sys.sina.com.cn	202.106.184.186
+zabbix.vip.sina.com.cn	202.108.35.157
+zabbix.wap.sina.com.cn	202.108.35.165
+zabbix.web.sina.com.cn	202.108.35.191
+zhidao.email.sina.com.cn	202.108.37.31
+zhidao.q.sina.com.cn	114.80.223.60
+zhidao.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+zhidao.sys.sina.com.cn	202.106.184.186
+zhidao.vip.sina.com.cn	202.108.35.157
+zhidao.web.sina.com.cn	202.108.35.191
+zhidao.wap.sina.com.cn	202.108.35.165
+zimbra.email.sina.com.cn	202.108.37.31
+zimbra.q.sina.com.cn	114.80.223.60
+zimbra.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+zimbra.sys.sina.com.cn	202.106.184.186
+zimbra.wap.sina.com.cn	202.108.35.165
+zimbra.vip.sina.com.cn	202.108.35.157
+zimbra.web.sina.com.cn	202.108.35.191
+zip.email.sina.com.cn	202.108.37.31
+zip.q.sina.com.cn	114.80.223.60
+zip.sae.sina.com.cn	61.172.201.27, 61.172.201.28
+zip.vip.sina.com.cn	202.108.35.157
+zip.sys.sina.com.cn	202.106.184.186
+zip.wap.sina.com.cn	202.108.35.165
+zip.web.sina.com.cn	202.108.35.191

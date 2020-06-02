@@ -1,0 +1,38 @@
+api.dianrong.com	106.119.182.214, 116.55.250.235
+auth.dianrong.com	223.4.220.215
+ccc.dianrong.com	101.132.85.218
+cms.dianrong.com	47.101.177.80
+code.dianrong.com	203.156.222.102
+crc.dianrong.com	47.100.31.92
+dl.dianrong.com	112.124.39.25
+dt.dianrong.com	139.196.71.178
+files.dianrong.com	223.4.220.215
+forum.dianrong.com	223.4.220.215
+fp.dianrong.com	223.4.220.215
+horizon.dianrong.com	223.4.220.215
+im.dianrong.com	47.100.31.92
+image.dianrong.com	114.80.187.98
+imap.dianrong.com	113.96.200.115, 113.96.208.92, 113.96.209.109, 113.96.232.106
+jira.dianrong.com	203.156.222.102
+l.dianrong.com	223.4.220.215
+m.dianrong.com	47.100.31.92
+mail.dianrong.com	223.4.220.215
+matrix.dianrong.com	47.100.31.92
+mc.dianrong.com	47.100.31.92
+nexus.dianrong.com	203.156.222.102
+msoid.dianrong.com	139.217.17.219, 139.217.21.3, 42.159.4.68
+oa.dianrong.com	203.156.222.102
+promotion.dianrong.com	116.55.250.249, 58.58.81.254
+s.dianrong.com	183.57.82.162, 183.57.82.163, 183.57.82.165
+security.dianrong.com	223.4.220.215
+sip.dianrong.com	42.159.162.44
+sme.dianrong.com	223.4.220.215
+smtp.dianrong.com	113.96.200.115, 113.96.208.92, 113.96.232.106
+sns.dianrong.com	223.4.220.215
+sp.dianrong.com	223.4.220.215
+static.dianrong.com	223.4.220.215
+trust.dianrong.com	223.4.220.215
+ui.dianrong.com	223.4.220.215
+vip.dianrong.com	47.100.31.92
+wiki.dianrong.com	203.156.222.102
+www.dianrong.com	106.119.182.228, 122.228.238.29

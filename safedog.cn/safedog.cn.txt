@@ -1,0 +1,37 @@
+404.safedog.cn	122.228.236.99
+ad.safedog.cn	120.41.45.103
+ads.safedog.cn	122.228.236.99
+backup.safedog.cn	110.86.5.91
+bbs.safedog.cn	120.41.45.102
+blog.safedog.cn	110.86.5.92
+config.safedog.cn	120.41.45.103
+cloud.safedog.cn	120.41.45.100
+crm.safedog.cn	120.41.45.103
+down.safedog.cn	122.228.236.99
+download.safedog.cn	115.231.128.144, 122.224.48.149, 122.224.48.150, 122.226.187.15, 122.228.75.133, 122.228.75.136, 122.228.9.12, 183.131.208.25, 183.131.208.90, 61.153.101.71
+free.safedog.cn	120.41.45.100
+kernel.safedog.cn	58.222.18.2
+mail.safedog.cn	218.107.217.221
+market.safedog.cn	120.41.45.100
+nginx.safedog.cn	122.224.48.149, 122.224.48.150, 122.226.187.15, 122.228.75.133, 122.228.75.136, 122.228.75.140, 122.228.9.12, 122.228.9.25, 183.131.208.25, 183.131.208.90
+partner.safedog.cn	110.86.5.91
+patch.safedog.cn	120.41.45.103
+passport.safedog.cn	120.41.45.100
+security.safedog.cn	120.41.45.100
+sft.safedog.cn	120.41.45.109
+shanghai.safedog.cn	120.41.45.111
+sms.safedog.cn	120.41.45.100
+soft.safedog.cn	120.41.45.103
+sys.safedog.cn	120.41.45.111
+test3.safedog.cn	120.41.45.111
+test6.safedog.cn	120.41.45.111
+test4.safedog.cn	120.41.45.111
+test5.safedog.cn	120.41.45.111
+testsite.safedog.cn	120.41.45.111
+test1.safedog.cn	120.41.45.111
+test2.safedog.cn	120.41.45.111
+track.safedog.cn	183.129.245.60
+union.safedog.cn	120.41.45.103
+update.safedog.cn	120.41.45.103
+weixin.safedog.cn	120.41.45.100
+www.safedog.cn	120.41.45.100

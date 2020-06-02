@@ -1,0 +1,336 @@
+a.cainiao.com	203.119.169.175
+account.cainiao.com	203.119.214.125
+admin.cainiao.com	203.119.214.125
+agent.cainiao.com	203.119.169.238
+alliance.cainiao.com	101.89.125.219, 101.89.125.220, 180.163.39.79, 180.163.39.80
+assets.cainiao.com	203.119.129.44, 203.119.205.59, 203.119.214.33, 203.119.216.164
+b2b.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+bms.cainiao.com	47.88.132.61
+brand.cainiao.com	101.227.0.133, 101.227.0.134, 101.227.0.135, 101.227.0.136, 101.227.0.137, 101.227.0.138, 101.227.0.139, 101.227.0.140
+c.cainiao.com	203.119.169.43
+c5.cainiao.com	203.119.215.106
+cam.cainiao.com	203.119.215.106
+cds.cainiao.com	203.119.244.125
+che.cainiao.com	203.119.244.125
+cie.cainiao.com	203.119.169.9
+cloud.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+cmp.cainiao.com	203.119.169.175
+console.cainiao.com	203.119.214.125
+cp.cainiao.com	203.119.214.125
+cps.cainiao.com	203.119.169.82
+cpc.cainiao.com	203.119.213.2
+ctc.cainiao.com	203.119.215.106
+d.cainiao.com	203.119.215.106
+data.cainiao.com	203.119.214.125
+database.cainiao.com	203.119.169.84
+dms.cainiao.com	203.119.169.9
+dp.cainiao.com	100.67.79.138
+dps.cainiao.com	203.119.169.207
+dt.cainiao.com	11.128.111.43
+fgw.cainiao.com	203.119.214.125
+finance.cainiao.com	203.119.215.106
+fly.cainiao.com	203.119.214.124
+flash.cainiao.com	203.119.169.175
+g.cainiao.com	106.11.210.44
+gg.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+global.cainiao.com	203.119.215.106
+gw.cainiao.com	203.119.215.106
+i.cainiao.com	203.119.169.238
+imap.cainiao.com	42.156.239.54
+inet.cainiao.com	203.119.214.125
+ldap.cainiao.com	203.119.215.106
+learn.cainiao.com	203.119.169.175
+link.cainiao.com	203.119.214.125
+lms.cainiao.com	203.119.215.106
+login.cainiao.com	203.119.207.252
+ls.cainiao.com	203.119.169.9
+lv.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+mail.cainiao.com	42.156.140.97
+mc.cainiao.com	203.119.244.125
+member.cainiao.com	203.119.169.84
+merchant.cainiao.com	203.119.215.106
+micro.cainiao.com	106.11.210.201
+model.cainiao.com	106.11.210.202
+nagios.cainiao.com	203.119.215.106
+o.cainiao.com	203.119.244.125
+office.cainiao.com	47.110.23.71
+ods.cainiao.com	203.119.244.125
+oms.cainiao.com	203.119.215.106
+page.cainiao.com	101.226.26.226, 101.226.26.227, 101.226.26.228, 101.226.26.229, 101.226.26.230, 101.226.26.231, 101.226.26.232, 101.226.26.233
+pa.cainiao.com	203.119.169.175
+park.cainiao.com	203.119.214.125
+pass.cainiao.com	203.119.214.125
+passport.cainiao.com	203.119.244.125
+pms.cainiao.com	203.119.169.207
+pop3.cainiao.com	140.205.121.207
+post.cainiao.com	203.119.215.106
+prism.cainiao.com	203.119.169.175
+robin.cainiao.com	106.11.210.44
+rs.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+scm.cainiao.com	203.119.215.106
+sec.cainiao.com	203.119.207.252
+se.cainiao.com	203.119.214.125
+site.cainiao.com	203.119.214.125
+smtp.cainiao.com	140.205.121.207
+supplier.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+svn.cainiao.com	203.119.214.123
+tcm.cainiao.com	203.119.214.125
+terminal.cainiao.com	203.119.215.106
+td.cainiao.com	203.119.169.207
+tms.cainiao.com	203.119.207.250
+tp.cainiao.com	203.119.169.175
+was.cainiao.com	203.119.214.125
+wd.cainiao.com	203.119.244.125
+webadmin.cainiao.com	203.119.214.125
+wms.cainiao.com	203.119.244.125
+work.cainiao.com	203.119.215.106
+ws.cainiao.com	203.119.244.125
+www.cainiao.com	101.89.125.219, 101.89.125.220, 180.163.39.79, 180.163.39.80
+y.cainiao.com	203.119.244.125
+yc.cainiao.com	203.119.169.207
+z.cainiao.com	203.119.215.106
+yz.cainiao.com	203.119.214.125
+zs.cainiao.com	203.119.169.84
+activity.c.cainiao.com	203.119.214.250
+api.cloud.cainiao.com	140.205.34.16
+api.td.cainiao.com	203.119.214.249
+auth.wms.cainiao.com	203.119.214.133
+connect.dms.cainiao.com	203.119.214.133
+control.wms.cainiao.com	203.119.206.115
+cp.scm.cainiao.com	203.119.213.243
+css.dms.cainiao.com	203.119.214.135
+data.park.cainiao.com	203.119.213.243
+e.c.cainiao.com	203.119.211.253
+e.park.cainiao.com	140.205.34.25
+gateway.dms.cainiao.com	203.119.206.241
+live.cloud.cainiao.com	113.219.136.25, 113.219.136.26, 113.219.136.27, 113.219.136.28, 113.219.136.29, 113.219.136.30, 113.219.136.31, 113.219.136.32
+log.work.cainiao.com	203.119.214.135
+login.c.cainiao.com	140.205.34.16
+manager.dms.cainiao.com	203.119.214.135
+oa.park.cainiao.com	203.119.213.243
+p.park.cainiao.com	203.119.206.115
+sms.dms.cainiao.com	203.119.206.115
+a.cainiao.com	203.119.169.207
+account.cainiao.com	203.119.244.125
+admin.cainiao.com	203.119.169.9
+agent.cainiao.com	203.119.244.125
+alliance.cainiao.com	101.89.125.219, 101.89.125.220, 180.163.39.79, 180.163.39.80
+assets.cainiao.com	203.119.129.44, 203.119.205.59, 203.119.214.33, 203.119.216.164
+b2b.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+bms.cainiao.com	47.88.132.61
+brand.cainiao.com	101.227.0.133, 101.227.0.134, 101.227.0.135, 101.227.0.136, 101.227.0.137, 101.227.0.138, 101.227.0.139, 101.227.0.140
+c5.cainiao.com	203.119.205.247
+c.cainiao.com	203.119.169.175
+cam.cainiao.com	203.119.215.106
+cds.cainiao.com	203.119.214.125
+che.cainiao.com	203.119.214.125
+cie.cainiao.com	203.119.169.207
+cloud.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+cmp.cainiao.com	203.119.169.9
+console.cainiao.com	203.119.205.247
+cp.cainiao.com	203.119.214.125
+cpc.cainiao.com	203.119.205.247
+cps.cainiao.com	203.119.169.41
+ctc.cainiao.com	203.119.215.106
+d.cainiao.com	203.119.207.250
+data.cainiao.com	203.119.169.9
+database.cainiao.com	203.119.205.247
+dms.cainiao.com	203.119.207.250
+dp.cainiao.com	100.67.31.128
+dps.cainiao.com	203.119.205.247
+dt.cainiao.com	11.128.111.43
+fgw.cainiao.com	203.119.169.207
+finance.cainiao.com	203.119.205.247
+fly.cainiao.com	203.119.207.250
+flash.cainiao.com	203.119.205.247
+g.cainiao.com	106.11.210.44
+gg.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+global.cainiao.com	203.119.215.106
+gw.cainiao.com	203.119.214.125
+i.cainiao.com	203.119.215.106
+imap.cainiao.com	42.156.239.54
+inet.cainiao.com	203.119.214.125
+ldap.cainiao.com	203.119.215.106
+learn.cainiao.com	203.119.205.247
+link.cainiao.com	203.119.207.250
+lms.cainiao.com	203.119.169.207
+login.cainiao.com	203.119.214.125
+ls.cainiao.com	203.119.169.207
+lv.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+mail.cainiao.com	42.156.140.97
+mc.cainiao.com	203.119.214.125
+member.cainiao.com	203.119.169.207
+merchant.cainiao.com	203.119.214.125
+micro.cainiao.com	106.11.210.44
+model.cainiao.com	106.11.209.173
+nagios.cainiao.com	203.119.205.247
+o.cainiao.com	203.119.214.125
+ods.cainiao.com	203.119.244.125
+office.cainiao.com	47.110.23.71
+oms.cainiao.com	203.119.205.247
+page.cainiao.com	101.226.26.226, 101.226.26.227, 101.226.26.228, 101.226.26.229, 101.226.26.230, 101.226.26.231, 101.226.26.232, 101.226.26.233
+pa.cainiao.com	203.119.205.247
+park.cainiao.com	203.119.205.247
+passport.cainiao.com	203.119.214.125
+pass.cainiao.com	203.119.207.250
+pop3.cainiao.com	140.205.121.207
+pms.cainiao.com	203.119.169.238
+post.cainiao.com	203.119.244.124
+prism.cainiao.com	203.119.169.207
+robin.cainiao.com	106.11.210.201
+rs.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+scm.cainiao.com	203.119.169.84
+sec.cainiao.com	203.119.207.250
+se.cainiao.com	203.119.169.41
+site.cainiao.com	203.119.169.84
+smtp.cainiao.com	140.205.121.207
+supplier.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+svn.cainiao.com	203.119.205.247
+tcm.cainiao.com	203.119.214.125
+td.cainiao.com	203.119.207.250
+terminal.cainiao.com	203.119.215.106
+tms.cainiao.com	203.119.214.123
+tp.cainiao.com	203.119.169.41
+was.cainiao.com	203.119.214.125
+wd.cainiao.com	203.119.215.106
+webadmin.cainiao.com	203.119.169.41
+wms.cainiao.com	203.119.207.250
+work.cainiao.com	203.119.215.106
+ws.cainiao.com	203.119.215.106
+www.cainiao.com	101.89.125.219, 101.89.125.220, 180.163.39.79, 180.163.39.80
+y.cainiao.com	203.119.214.125
+yc.cainiao.com	203.119.207.250
+yz.cainiao.com	203.119.207.250
+z.cainiao.com	203.119.169.43
+zs.cainiao.com	203.119.169.207
+activity.c.cainiao.com	203.119.169.224
+api.cloud.cainiao.com	140.205.34.16
+api.td.cainiao.com	203.119.206.251
+auth.wms.cainiao.com	203.119.214.133
+connect.dms.cainiao.com	203.119.214.133
+control.wms.cainiao.com	203.119.213.243
+cp.scm.cainiao.com	203.119.206.241
+css.dms.cainiao.com	203.119.213.243
+data.park.cainiao.com	203.119.206.241
+e.c.cainiao.com	203.119.206.251
+e.park.cainiao.com	140.205.62.83
+gateway.dms.cainiao.com	203.119.214.135
+live.cloud.cainiao.com	182.86.84.228, 182.86.84.229, 182.86.84.230, 182.86.84.231, 182.86.84.232, 182.86.84.233, 182.86.84.234, 182.86.84.235
+log.work.cainiao.com	203.119.214.133
+login.c.cainiao.com	140.205.32.6
+manager.dms.cainiao.com	203.119.206.241
+oa.park.cainiao.com	203.119.206.241
+p.park.cainiao.com	203.119.214.133
+sms.dms.cainiao.com	203.119.214.133
+a.cainiao.com	203.119.169.9
+account.cainiao.com	203.119.214.125
+admin.cainiao.com	203.119.169.9
+agent.cainiao.com	203.119.169.9
+alliance.cainiao.com	101.89.125.219, 101.89.125.220, 180.163.39.79, 180.163.39.80
+assets.cainiao.com	203.119.129.44, 203.119.205.59, 203.119.214.33, 203.119.216.164
+b2b.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+bms.cainiao.com	47.88.132.61
+brand.cainiao.com	101.227.0.133, 101.227.0.134, 101.227.0.135, 101.227.0.136, 101.227.0.137, 101.227.0.138, 101.227.0.139, 101.227.0.140
+c.cainiao.com	203.119.169.9
+c5.cainiao.com	203.119.214.125
+cam.cainiao.com	203.119.214.125
+cds.cainiao.com	203.119.244.125
+che.cainiao.com	203.119.214.125
+cie.cainiao.com	203.119.169.9
+cmp.cainiao.com	203.119.169.84
+cloud.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+console.cainiao.com	203.119.244.125
+cpc.cainiao.com	203.119.244.125
+cp.cainiao.com	203.119.214.125
+cps.cainiao.com	203.119.215.106
+ctc.cainiao.com	203.119.169.9
+d.cainiao.com	203.119.169.9
+data.cainiao.com	203.119.169.84
+database.cainiao.com	203.119.169.207
+dms.cainiao.com	203.119.207.250
+dp.cainiao.com	100.67.31.128
+dps.cainiao.com	203.119.244.125
+dt.cainiao.com	11.128.111.43
+fgw.cainiao.com	203.119.214.125
+finance.cainiao.com	203.119.169.9
+flash.cainiao.com	203.119.169.84
+fly.cainiao.com	203.119.207.251
+g.cainiao.com	106.11.210.201
+gg.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+global.cainiao.com	203.119.244.125
+gw.cainiao.com	203.119.214.125
+i.cainiao.com	203.119.244.125
+imap.cainiao.com	42.156.239.54
+inet.cainiao.com	203.119.214.125
+ldap.cainiao.com	203.119.169.84
+learn.cainiao.com	203.119.244.125
+link.cainiao.com	203.119.207.250
+login.cainiao.com	203.119.205.247
+lms.cainiao.com	203.119.169.9
+ls.cainiao.com	203.119.244.125
+lv.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+mail.cainiao.com	42.156.140.97
+mc.cainiao.com	203.119.214.125
+member.cainiao.com	203.119.169.84
+merchant.cainiao.com	203.119.214.125
+micro.cainiao.com	106.11.210.202
+model.cainiao.com	106.11.209.173
+nagios.cainiao.com	203.119.169.82
+o.cainiao.com	203.119.215.106
+ods.cainiao.com	203.119.244.125
+office.cainiao.com	47.110.23.71
+oms.cainiao.com	203.119.169.9
+pa.cainiao.com	203.119.169.84
+page.cainiao.com	101.226.26.226, 101.226.26.227, 101.226.26.228, 101.226.26.229, 101.226.26.230, 101.226.26.231, 101.226.26.232, 101.226.26.233
+park.cainiao.com	203.119.214.125
+passport.cainiao.com	203.119.244.125
+pass.cainiao.com	203.119.244.125
+pms.cainiao.com	203.119.169.9
+pop3.cainiao.com	140.205.121.207
+post.cainiao.com	203.119.169.9
+prism.cainiao.com	203.119.169.84
+robin.cainiao.com	106.11.210.202
+rs.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+scm.cainiao.com	203.119.244.125
+sec.cainiao.com	203.119.207.250
+se.cainiao.com	203.119.169.9
+site.cainiao.com	203.119.214.123
+smtp.cainiao.com	140.205.121.207
+supplier.cainiao.com	106.11.248.2, 106.11.61.141, 140.205.248.8, 140.205.61.87
+svn.cainiao.com	203.119.169.84
+td.cainiao.com	203.119.213.2
+tcm.cainiao.com	203.119.244.125
+terminal.cainiao.com	203.119.169.9
+tms.cainiao.com	203.119.169.175
+tp.cainiao.com	203.119.169.84
+was.cainiao.com	203.119.169.238
+webadmin.cainiao.com	203.119.169.238
+wd.cainiao.com	203.119.215.106
+wms.cainiao.com	203.119.169.238
+work.cainiao.com	203.119.169.9
+ws.cainiao.com	203.119.169.9
+www.cainiao.com	101.89.125.219, 101.89.125.220, 180.163.39.79, 180.163.39.80
+y.cainiao.com	203.119.244.125
+yc.cainiao.com	203.119.169.9
+yz.cainiao.com	203.119.207.250
+z.cainiao.com	203.119.207.250
+zs.cainiao.com	203.119.207.250
+activity.c.cainiao.com	203.119.169.141
+api.cloud.cainiao.com	140.205.34.16
+api.td.cainiao.com	203.119.169.141
+auth.wms.cainiao.com	203.119.214.134
+connect.dms.cainiao.com	203.119.214.133
+control.wms.cainiao.com	203.119.214.133
+cp.scm.cainiao.com	203.119.214.134
+css.dms.cainiao.com	203.119.206.115
+data.park.cainiao.com	203.119.214.135
+e.c.cainiao.com	203.119.169.44
+e.park.cainiao.com	140.205.62.83
+gateway.dms.cainiao.com	203.119.206.115
+live.cloud.cainiao.com	182.86.84.228, 182.86.84.229, 182.86.84.230, 182.86.84.231, 182.86.84.232, 182.86.84.233, 182.86.84.234, 182.86.84.235
+log.work.cainiao.com	203.119.214.134
+login.c.cainiao.com	140.205.172.18
+manager.dms.cainiao.com	203.119.214.133
+oa.park.cainiao.com	203.119.206.241
+p.park.cainiao.com	203.119.214.133
+sms.dms.cainiao.com	203.119.206.115

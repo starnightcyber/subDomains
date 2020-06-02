@@ -1,0 +1,140 @@
+about.pingan.com	121.46.248.114, 45.124.125.75
+ai.pingan.com	113.96.197.100
+air.pingan.com	121.12.84.112
+aims.pingan.com	210.83.243.56, 218.17.112.56
+api.pingan.com	202.69.21.123
+asset.pingan.com	121.46.247.252, 121.46.248.114
+ask.pingan.com	116.31.80.169
+ats.pingan.com	202.69.25.31
+b.pingan.com	202.69.23.165
+bank.pingan.com	121.46.248.114, 45.124.125.75
+bi.pingan.com	45.65.23.25
+bip.pingan.com	202.69.23.202
+br.pingan.com	202.69.23.244
+c.pingan.com	202.69.23.241
+campus.pingan.com	202.69.16.190
+car.pingan.com	202.69.19.184
+cash.pingan.com	202.69.21.176
+cc.pingan.com	202.69.26.98
+che.pingan.com	202.69.26.71
+city.pingan.com	43.230.222.30
+club.pingan.com	202.69.18.234
+cloud.pingan.com	101.89.63.11
+d.pingan.com	202.69.20.8
+dk.pingan.com	113.98.243.223
+e.pingan.com	218.18.229.226
+edu.pingan.com	119.147.216.194
+events.pingan.com	124.250.88.160
+ex.pingan.com	202.69.26.68
+f.pingan.com	202.69.21.12
+face.pingan.com	202.69.30.125
+fortune.pingan.com	202.69.26.55
+fund.pingan.com	218.18.229.9
+fun.pingan.com	202.69.26.66
+g.pingan.com	120.52.78.115
+futures.pingan.com	202.69.26.80
+galileo.pingan.com	202.69.25.229
+gamma.pingan.com	202.69.30.143
+gj.pingan.com	122.228.4.155, 122.228.4.188, 122.228.4.189, 122.228.4.197, 122.228.4.220, 122.228.4.221, 122.228.4.224, 122.228.4.225
+github.pingan.com	59.36.209.3
+h5.pingan.com	45.65.20.80
+health.pingan.com	202.69.26.89
+hermes.pingan.com	210.83.240.230, 218.18.229.230
+home.pingan.com	202.69.21.142
+i.pingan.com	183.129.178.89
+img2.pingan.com	121.46.248.98
+img1.pingan.com	202.69.26.6
+info.pingan.com	208.70.139.25
+ir.pingan.com	121.46.248.114, 121.46.248.98
+jk.pingan.com	101.231.192.21
+job.pingan.com	202.69.21.26
+lc.pingan.com	202.69.29.25
+life.pingan.com	210.83.243.8
+m.pingan.com	202.69.26.16
+marketing.pingan.com	124.250.88.80
+message.pingan.com	113.98.243.242, 113.98.243.244, 113.98.243.245, 116.31.88.235, 116.31.88.236, 119.145.21.1, 119.145.21.2, 119.145.21.4, 119.145.21.5, 119.145.21.6, 183.62.102.192, 183.62.102.194, 183.62.102.195, 183.62.102.196, 183.62.102.197, 183.62.102.198, 183.62.102.199, 183.62.102.200, 183.62.167.252, 183.62.167.253, 183.62.167.254, 183.62.167.255, 218.17.209.18, 218.17.209.19, 218.17.209.20, 218.17.209.21, 218.17.209.22, 218.17.209.23
+mi.pingan.com	202.69.21.111
+mobi.pingan.com	183.129.178.89
+money.pingan.com	202.69.26.83
+mx4.pingan.com	202.69.18.86
+mx5.pingan.com	202.69.19.217
+mx1.pingan.com	202.69.19.104
+mx2.pingan.com	202.69.19.105
+news.pingan.com	43.230.222.122
+nj.pingan.com	202.69.21.23
+ok.pingan.com	45.65.20.79
+one.pingan.com	43.230.223.2
+pac.pingan.com	202.69.21.32
+pai.pingan.com	43.230.222.98
+pan.pingan.com	202.69.27.2
+pcs.pingan.com	202.69.21.99
+post.pingan.com	202.69.21.2
+q.pingan.com	202.69.30.93
+qr.pingan.com	202.69.23.219
+resources.pingan.com	121.46.248.114, 45.124.125.75
+rs.pingan.com	202.69.30.33
+s.pingan.com	202.69.24.24
+sdc.pingan.com	202.69.20.9
+search.pingan.com	202.69.26.11
+security.pingan.com	45.65.20.38
+shop.pingan.com	202.69.26.67
+smart.pingan.com	202.69.16.197
+sms.pingan.com	124.250.88.187
+ssl.pingan.com	202.69.26.101
+static2.pingan.com	121.46.247.252, 121.46.248.114
+static1.pingan.com	202.69.26.6
+stock.pingan.com	202.69.24.192
+sunshine.pingan.com	14.116.179.99
+survey.pingan.com	202.69.26.117
+sx.pingan.com	101.89.94.214
+talent.pingan.com	202.69.30.155
+t.pingan.com	202.69.26.102
+taobao.pingan.com	202.69.26.12
+tb.pingan.com	202.69.26.19
+tech.pingan.com	202.69.30.44
+trust.pingan.com	202.69.20.184
+turing.pingan.com	43.230.222.80
+u.pingan.com	116.31.80.186
+txt.pingan.com	101.227.102.84, 121.46.248.96
+video.pingan.com	202.69.25.145
+vip.pingan.com	121.46.247.252, 121.46.248.114
+voice.pingan.com	210.83.240.63, 218.18.229.63
+vpn.pingan.com	202.69.18.43
+wap.pingan.com	202.69.26.16
+wifi.pingan.com	116.31.80.135, 210.83.237.199
+wm.pingan.com	121.46.247.252, 121.46.248.114
+www.pingan.com	202.69.26.11
+x.pingan.com	202.69.26.13
+xt.pingan.com	121.46.248.114, 121.46.248.98
+yl.pingan.com	183.131.133.129, 183.131.133.130, 183.131.133.131, 183.131.133.132, 183.131.133.133, 183.134.19.1, 222.186.172.130, 36.25.252.1, 36.25.252.2, 36.25.252.3, 36.25.252.4, 36.25.252.5
+yun.pingan.com	101.89.63.11
+api.city.pingan.com	14.116.179.37
+api.cloud.pingan.com	101.89.63.19
+api.jk.pingan.com	101.231.192.21
+api.yun.pingan.com	101.89.63.19
+crm.yun.pingan.com	103.28.214.24
+dev.mi.pingan.com	202.69.21.243
+erp.stock.pingan.com	202.69.24.45
+i.stock.pingan.com	202.69.24.195
+img.health.pingan.com	121.46.234.166
+login.stock.pingan.com	202.69.24.28
+oa.yun.pingan.com	101.89.90.164
+res.talent.pingan.com	101.89.125.211, 101.89.125.212, 101.89.125.213, 101.89.125.214, 101.89.125.215, 101.89.125.216, 101.89.125.217, 101.89.125.218
+service.trust.pingan.com	202.69.21.230
+static.city.pingan.com	121.46.234.166
+test.github.pingan.com	113.96.61.49
+vpn.bank.pingan.com	210.21.216.201, 218.17.146.201
+weixin.jk.pingan.com	101.231.192.21
+www.about.pingan.com	202.69.26.12
+www.asset.pingan.com	202.69.26.12
+www.fund.pingan.com	202.69.21.14
+www.bank.pingan.com	202.69.26.12
+www.car.pingan.com	202.69.19.184
+www.ir.pingan.com	202.69.26.12
+www.health.pingan.com	202.69.26.12
+www.life.pingan.com	202.69.26.12
+www.futures.pingan.com	202.69.26.12
+www.money.pingan.com	202.69.26.83
+www.stock.pingan.com	202.69.24.192
+www.one.pingan.com	202.69.19.184
+www.vip.pingan.com	202.69.26.84

@@ -1,0 +1,134 @@
+666.wanmei.com	221.228.74.247
+3g.wanmei.com	101.227.102.187
+ai.wanmei.com	221.228.210.80, 221.228.210.81
+al.wanmei.com	101.227.97.174, 221.230.143.60
+am.wanmei.com	101.227.102.187
+analytics.wanmei.com	221.228.74.247
+antispam.wanmei.com	221.228.210.80, 221.228.210.81
+api.wanmei.com	221.228.210.80, 221.228.210.81
+arc.wanmei.com	101.227.102.187
+ask.wanmei.com	221.228.74.160
+bbs.wanmei.com	221.228.192.68
+ca.wanmei.com	168.160.224.81
+campus.wanmei.com	121.46.248.88
+cd.wanmei.com	101.227.102.187
+co.wanmei.com	221.230.143.60, 59.63.80.119
+cps.wanmei.com	121.9.244.130
+cs.wanmei.com	221.228.74.159
+d.wanmei.com	101.227.102.187
+edu.wanmei.com	221.230.143.60, 59.63.80.119
+email.wanmei.com	118.145.0.4
+event.wanmei.com	221.228.74.250
+fx.wanmei.com	221.228.210.172
+games.wanmei.com	101.227.102.187
+gongyi.wanmei.com	221.228.74.247
+gs.wanmei.com	221.228.74.246
+hd.wanmei.com	172.23.254.12, 58.215.101.165
+hj.wanmei.com	221.230.143.60, 59.63.80.119
+hob.wanmei.com	101.227.97.174, 221.230.143.60
+hot.wanmei.com	221.230.143.60, 59.63.80.119
+hr.wanmei.com	124.193.167.93
+i.wanmei.com	221.228.210.11
+images.wanmei.com	101.227.102.187
+img.wanmei.com	221.230.143.60, 59.63.80.119
+jabber.wanmei.com	124.193.167.10
+jf.wanmei.com	222.73.5.87
+jobs.wanmei.com	124.243.240.68
+learn.wanmei.com	36.112.46.9
+live.wanmei.com	221.228.210.172
+log.wanmei.com	121.46.247.252, 121.46.248.98
+log1.wanmei.com	45.124.125.75
+log2.wanmei.com	180.97.196.41, 180.97.196.46
+m2.wanmei.com	121.46.247.254, 121.46.248.88
+m.wanmei.com	101.227.102.187
+match.wanmei.com	120.92.0.221
+matrix.wanmei.com	61.152.110.234
+mec.wanmei.com	124.193.167.90
+mdm.wanmei.com	124.193.167.23
+mcs.wanmei.com	221.228.74.218
+meeting.wanmei.com	124.193.167.200
+news.wanmei.com	61.147.84.44
+newsletter.wanmei.com	118.145.0.4
+ns.wanmei.com	124.193.167.24
+ntp.wanmei.com	221.228.210.135
+nw.wanmei.com	221.228.74.247
+open.wanmei.com	211.100.255.15
+passport.wanmei.com	221.228.74.139, 221.228.74.140, 221.228.74.141, 221.228.74.142, 221.228.74.143
+pay.wanmei.com	221.228.210.80, 221.228.210.81
+pgp.wanmei.com	101.227.102.187
+photo.wanmei.com	221.228.74.250
+pictures.wanmei.com	221.230.143.60, 59.63.80.119
+poker.wanmei.com	115.182.50.60
+pop.wanmei.com	124.193.167.254
+pub.wanmei.com	221.228.74.247
+public.wanmei.com	58.215.53.48
+pw.wanmei.com	211.100.255.23
+radio.wanmei.com	221.230.143.60, 59.63.80.119
+redirect.wanmei.com	101.227.102.187
+sanguo.wanmei.com	101.227.102.187
+sd.wanmei.com	101.227.102.187
+sds.wanmei.com	101.227.102.187
+sec.wanmei.com	221.228.74.220
+search.wanmei.com	58.215.82.161
+security.wanmei.com	221.228.74.220
+service.wanmei.com	221.228.74.159
+sh.wanmei.com	101.227.102.187
+sg.wanmei.com	101.227.102.187
+shop.wanmei.com	221.228.210.80, 221.228.210.81
+sm.wanmei.com	221.228.74.247
+smtp.wanmei.com	124.193.167.254
+sso.wanmei.com	58.215.52.170
+ss.wanmei.com	221.228.74.247
+static.wanmei.com	221.230.143.60, 59.63.80.119
+store.wanmei.com	221.228.210.11
+study.wanmei.com	36.112.46.10
+support.wanmei.com	118.145.0.12
+svpn.wanmei.com	36.112.46.60
+switch.wanmei.com	221.228.74.250
+sw.wanmei.com	101.227.102.187
+t.wanmei.com	101.227.102.187
+test.wanmei.com	119.251.109.171
+tg.wanmei.com	118.145.10.15
+u.wanmei.com	221.228.210.149
+verify.wanmei.com	203.208.141.88
+vip.wanmei.com	101.227.102.187
+vpn.wanmei.com	211.100.255.2
+w.wanmei.com	101.227.102.187
+wd.wanmei.com	101.227.102.187
+world.wanmei.com	101.227.102.187
+wl.wanmei.com	221.230.143.60, 59.63.80.119
+www.wanmei.com	101.227.102.187
+xa.wanmei.com	101.227.97.201, 61.164.210.207
+x.wanmei.com	221.228.74.246
+xq.wanmei.com	221.230.143.60, 59.63.80.119
+yt.wanmei.com	221.228.74.210
+z.wanmei.com	101.227.102.187
+zb.wanmei.com	221.228.210.155
+zero.wanmei.com	101.227.102.187
+zhaopin.wanmei.com	124.243.240.68
+zk.wanmei.com	221.228.210.99
+zx.wanmei.com	101.227.102.187
+activity.event.wanmei.com	221.228.74.250
+api.cs.wanmei.com	124.161.38.55
+app.analytics.wanmei.com	221.228.74.246
+app.games.wanmei.com	221.230.143.60, 59.63.80.119
+bbs.sg.wanmei.com	221.228.192.68
+bbs.nw.wanmei.com	221.228.192.68
+bbs.xa.wanmei.com	221.228.192.68
+image.fx.wanmei.com	221.230.143.60, 59.63.80.119
+img.games.wanmei.com	221.230.143.60, 59.63.80.119
+img.event.wanmei.com	221.230.143.60, 59.63.80.119
+img.shop.wanmei.com	221.230.143.60, 59.63.80.119
+manager.shop.wanmei.com	58.215.101.245
+manager.photo.wanmei.com	221.228.74.245
+pop.pw.wanmei.com	211.100.255.23
+static.games.wanmei.com	61.164.210.207
+static.pgp.wanmei.com	221.230.143.60, 59.63.80.119
+survey.hd.wanmei.com	221.228.74.250
+survey.xa.wanmei.com	58.215.101.233
+test.am.wanmei.com	221.228.74.247
+test.www.wanmei.com	221.228.74.247
+test.xa.wanmei.com	221.228.74.247
+update.pgp.wanmei.com	101.227.97.253, 114.236.90.107, 115.223.11.178, 183.134.11.88, 61.147.106.166
+web.meeting.wanmei.com	124.193.167.200
+weixin.cs.wanmei.com	221.228.74.246

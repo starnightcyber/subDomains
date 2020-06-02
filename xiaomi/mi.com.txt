@@ -1,0 +1,324 @@
+123.mi.com	117.48.116.126
+10.mi.com	58.83.160.153, 58.83.160.154, 58.83.160.155, 58.83.160.156
+8.mi.com	183.84.5.151, 58.83.160.16
+ad.mi.com	117.48.116.17, 118.26.252.75
+account.mi.com	118.26.252.4
+ai.mi.com	120.131.11.38
+ak.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+app.mi.com	117.48.116.204, 118.26.252.203
+apm.mi.com	183.84.6.183
+b.mi.com	117.48.116.207, 118.26.252.207
+blog.mi.com	54.251.157.176, 54.251.180.111
+br.mi.com	13.250.154.180, 13.250.214.117
+call.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+buy.mi.com	13.228.117.31, 52.221.115.25, 52.221.149.109, 52.76.108.255, 52.76.239.96, 52.77.12.5
+c.mi.com	13.228.115.37, 13.228.184.158, 18.138.196.41, 3.0.130.225, 52.76.176.250, 54.255.170.53
+cart.mi.com	203.100.92.69
+car.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+cat.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+code.mi.com	117.48.116.63, 118.26.252.95
+cloud.mi.com	52.80.234.101
+company.mi.com	101.227.102.189, 45.124.125.75
+cp.mi.com	121.46.247.61
+credit.mi.com	13.234.26.197, 35.154.48.168
+designer.mi.com	118.26.252.20, 203.100.92.89
+dev.mi.com	117.48.116.204, 118.26.252.203
+disney.mi.com	120.92.98.245
+dms.mi.com	13.229.244.133, 52.221.24.90
+e.mi.com	117.48.116.17, 118.26.252.75
+event.mi.com	54.192.151.10, 54.192.151.114, 54.192.151.69, 54.192.151.93
+g.mi.com	120.92.98.245
+game.mi.com	120.92.98.245
+h5.mi.com	45.124.125.75
+hd.mi.com	101.227.102.189, 45.124.125.75
+hao.mi.com	117.48.116.126
+home.mi.com	118.26.252.156, 203.100.92.110
+global.mi.com	52.33.171.70, 52.42.179.135
+hr.mi.com	58.83.160.153, 58.83.160.154, 58.83.160.155, 58.83.160.156
+i.mi.com	58.83.160.225
+id.mi.com	118.26.252.4
+io.mi.com	118.26.252.156, 203.100.92.110
+item.mi.com	101.227.102.189, 45.124.125.75
+j.mi.com	117.48.116.215, 118.26.252.215
+jd.mi.com	118.26.252.147
+jia.mi.com	118.26.252.156, 203.100.92.110
+jr.mi.com	183.84.5.151, 58.83.160.16
+live.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+list.mi.com	45.124.125.75
+m.mi.com	203.100.92.69
+mall.mi.com	203.100.92.69
+mobile.mi.com	13.33.193.106, 13.33.193.126, 13.33.193.79, 13.33.193.81
+mr.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+my.mi.com	203.100.93.109, 203.100.93.110
+order.mi.com	203.100.92.69
+p.mi.com	117.48.116.63, 118.26.252.95
+pandora.mi.com	110.43.87.8, 203.100.92.18
+pc.mi.com	117.48.116.126
+play.mi.com	42.62.94.245
+poker.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+pos.mi.com	203.100.92.69
+popo.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+pre.mi.com	203.100.92.132
+promo.mi.com	13.224.29.111, 13.224.29.115, 13.224.29.63, 13.224.29.73
+r.mi.com	203.100.93.109, 203.100.93.110
+s1.mi.com	101.227.102.189, 45.124.125.75
+s.mi.com	13.126.51.244, 13.232.154.103
+search.mi.com	101.227.102.189, 121.46.248.98
+shop.mi.com	203.100.92.69
+sos.mi.com	117.48.116.207, 118.26.252.207
+speed.mi.com	120.92.98.245
+static.mi.com	101.227.102.189, 45.124.125.75
+store.mi.com	13.126.233.200, 13.126.233.220, 13.127.194.75, 13.127.42.57, 13.127.67.25, 35.154.53.45, 35.154.88.111, 52.66.56.212
+texas.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+theme.mi.com	118.26.252.20, 203.100.92.89
+tv.mi.com	110.43.87.8, 203.100.92.18
+union.mi.com	58.83.160.159
+vb.mi.com	183.84.6.85, 58.83.160.15
+wan.mi.com	111.206.200.57, 111.206.200.58
+wifi.mi.com	58.83.177.180
+www.mi.com	101.227.102.189, 121.46.248.98
+xiazai.mi.com	58.83.160.153, 58.83.160.154, 58.83.160.155, 58.83.160.156
+xy.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+yp.mi.com	203.100.92.180
+z.mi.com	203.100.92.180
+zg.mi.com	203.100.92.69
+zb.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+0.shop.mi.com	203.100.92.69
+1.shop.mi.com	203.100.92.69
+2.shop.mi.com	203.100.92.69
+3.shop.mi.com	203.100.92.69
+3g.shop.mi.com	203.100.92.69
+4.shop.mi.com	203.100.92.69
+4g.shop.mi.com	203.100.92.69
+5.shop.mi.com	203.100.92.69
+5g.shop.mi.com	203.100.92.69
+6.shop.mi.com	203.100.92.69
+8.shop.mi.com	203.100.92.69
+7.shop.mi.com	203.100.92.69
+9.shop.mi.com	203.100.92.69
+a.shop.mi.com	203.100.92.69
+a.pc.mi.com	117.48.116.126
+a.union.mi.com	203.100.92.69
+activity.e.mi.com	117.48.116.17, 118.26.252.75
+activity.shop.mi.com	203.100.92.69
+activity.zb.mi.com	45.124.125.75
+admin.cloud.mi.com	120.92.44.60
+admin.e.mi.com	117.48.116.17, 118.26.252.75
+adm.shop.mi.com	203.100.92.69
+admin.shop.mi.com	203.100.92.69
+api.io.mi.com	110.43.87.16, 117.48.116.87, 118.26.252.107
+api.jr.mi.com	183.84.5.151, 58.83.160.16
+adminht.shop.mi.com	203.100.92.69
+api.m.mi.com	203.100.93.113
+api.app.mi.com	117.48.116.204, 118.26.252.203
+api.e.mi.com	117.48.116.17, 118.26.252.75
+api.shop.mi.com	203.100.92.69
+api.home.mi.com	117.48.116.71, 118.26.252.97
+api.order.mi.com	203.100.92.69
+app.shop.mi.com	203.100.92.69
+app.buy.mi.com	13.228.117.31, 52.221.115.25, 52.221.149.109, 52.76.108.255, 52.76.239.96, 52.77.12.5
+app.m.mi.com	101.227.102.189, 45.124.125.75
+apps.shop.mi.com	203.100.92.69
+assets.shop.mi.com	203.100.92.69
+auth.zb.mi.com	203.100.92.45
+auth.shop.mi.com	203.100.92.69
+autodiscover.shop.mi.com	203.100.92.69
+b.g.mi.com	120.92.174.140
+b.shop.mi.com	203.100.92.69
+backup.shop.mi.com	203.100.92.69
+bata.shop.mi.com	203.100.92.69
+bbs.shop.mi.com	203.100.92.69
+beta.shop.mi.com	203.100.92.69
+blog.shop.mi.com	203.100.92.69
+boss.shop.mi.com	203.100.92.69
+bug.shop.mi.com	203.100.92.69
+bugs.shop.mi.com	203.100.92.69
+bugzilla.shop.mi.com	203.100.92.69
+c.id.mi.com	118.26.252.7, 203.100.92.31
+c.shop.mi.com	203.100.92.69
+cache.shop.mi.com	203.100.92.69
+cas.shop.mi.com	203.100.92.69
+ceshi.shop.mi.com	203.100.92.69
+cms.shop.mi.com	203.100.92.69
+cms.zb.mi.com	203.100.92.45
+connect.shop.mi.com	203.100.92.69
+console.shop.mi.com	203.100.92.69
+count.shop.mi.com	203.100.92.69
+counter.shop.mi.com	203.100.92.69
+control.shop.mi.com	203.100.92.69
+cp.shop.mi.com	203.100.92.69
+cp.live.mi.com	203.100.92.45
+crm.shop.mi.com	203.100.92.69
+css.shop.mi.com	203.100.92.69
+d.g.mi.com	36.110.204.136
+data.cloud.mi.com	120.92.43.70
+d.shop.mi.com	203.100.92.69
+data.shop.mi.com	203.100.92.69
+database.shop.mi.com	203.100.92.69
+db.shop.mi.com	203.100.92.69
+demo.live.mi.com	36.110.204.140
+demo.shop.mi.com	203.100.92.69
+dev.b.mi.com	117.48.116.207, 118.26.252.207
+dev.shop.mi.com	203.100.92.69
+dev1.shop.mi.com	203.100.92.69
+dl.zb.mi.com	122.225.30.85
+dl.shop.mi.com	203.100.92.69
+docs.shop.mi.com	203.100.92.69
+down.shop.mi.com	203.100.92.69
+download.shop.mi.com	203.100.92.69
+downloads.shop.mi.com	203.100.92.69
+e.shop.mi.com	203.100.92.69
+edit.shop.mi.com	203.100.92.69
+edm.shop.mi.com	203.100.92.69
+en.designer.mi.com	118.26.252.20, 203.100.92.89
+en.dev.mi.com	117.48.116.204, 118.26.252.203
+erp.shop.mi.com	203.100.92.69
+exchange.shop.mi.com	203.100.92.69
+f.shop.mi.com	203.100.92.69
+feedback.shop.mi.com	203.100.92.69
+files.shop.mi.com	203.100.92.69
+forum.shop.mi.com	203.100.92.69
+ftp.shop.mi.com	203.100.92.69
+g.shop.mi.com	203.100.92.69
+gateway.shop.mi.com	203.100.92.69
+git.shop.mi.com	203.100.92.69
+gm.shop.mi.com	203.100.92.69
+go.buy.mi.com	13.250.66.76, 52.220.27.159
+go.g.mi.com	101.227.102.164, 121.46.247.254
+go.shop.mi.com	203.100.92.69
+h.shop.mi.com	203.100.92.69
+help.jr.mi.com	183.84.6.171, 58.83.177.17
+help.shop.mi.com	203.100.92.69
+home.shop.mi.com	203.100.92.69
+ht.hd.mi.com	106.120.176.49
+ht.shop.mi.com	203.100.92.69
+i.ai.mi.com	117.48.116.128, 118.26.252.45
+i.shop.mi.com	203.100.92.69
+id.shop.mi.com	203.100.92.69
+image.shop.mi.com	203.100.92.69
+img.shop.mi.com	203.100.92.69
+img01.shop.mi.com	203.100.92.69
+img02.shop.mi.com	203.100.92.69
+img03.shop.mi.com	203.100.92.69
+img04.shop.mi.com	203.100.92.69
+it.shop.mi.com	203.100.92.69
+j.shop.mi.com	203.100.92.69
+jira.shop.mi.com	203.100.92.69
+js.shop.mi.com	203.100.92.69
+k.shop.mi.com	203.100.92.69
+lab.shop.mi.com	203.100.92.69
+ldap.shop.mi.com	203.100.92.69
+lib.shop.mi.com	203.100.92.69
+library.shop.mi.com	203.100.92.69
+list.shop.mi.com	203.100.92.69
+live.shop.mi.com	203.100.92.69
+lm.shop.mi.com	203.100.92.69
+log.shop.mi.com	203.100.92.69
+login.shop.mi.com	203.100.92.69
+mail.shop.mi.com	203.100.92.69
+manage.shop.mi.com	203.100.92.69
+manager.shop.mi.com	203.100.92.69
+master.shop.mi.com	203.100.92.69
+mgr.shop.mi.com	203.100.92.69
+monitor.shop.mi.com	203.100.92.69
+mysql.shop.mi.com	203.100.92.69
+n.shop.mi.com	203.100.92.69
+nagios.shop.mi.com	203.100.92.69
+new.shop.mi.com	203.100.92.69
+o.shop.mi.com	203.100.92.69
+oa.shop.mi.com	203.100.92.69
+old.shop.mi.com	203.100.92.69
+p.shop.mi.com	203.100.92.69
+passport.shop.mi.com	203.100.92.69
+phpmyadmin.shop.mi.com	203.100.92.69
+pic.shop.mi.com	203.100.92.69
+pma.shop.mi.com	203.100.92.69
+pop.shop.mi.com	203.100.92.69
+portal.shop.mi.com	203.100.92.69
+preview.shop.mi.com	203.100.92.69
+profile.shop.mi.com	203.100.92.69
+proxy.shop.mi.com	203.100.92.69
+q.shop.mi.com	203.100.92.69
+r.shop.mi.com	203.100.92.69
+res.shop.mi.com	203.100.92.69
+s.shop.mi.com	203.100.92.69
+s1.g.mi.com	61.174.246.192, 61.174.246.193
+s.zb.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+s1.zb.mi.com	114.236.140.64, 218.64.94.41
+s1.shop.mi.com	203.100.92.69
+s2.shop.mi.com	203.100.92.69
+s2.zb.mi.com	125.78.246.129, 125.78.246.130, 125.78.246.131, 183.134.19.1, 183.134.19.2, 222.186.172.130, 222.186.172.131
+s3.shop.mi.com	203.100.92.69
+sandbox.shop.mi.com	203.100.92.69
+scanner.shop.mi.com	203.100.92.69
+search.shop.mi.com	203.100.92.69
+service.order.mi.com	203.100.92.69
+service.shop.mi.com	203.100.92.69
+share.shop.mi.com	203.100.92.69
+service.cloud.mi.com	54.222.221.137
+sms.shop.mi.com	203.100.92.69
+so.shop.mi.com	203.100.92.69
+share.zb.mi.com	203.100.92.45
+sql.shop.mi.com	203.100.92.69
+ssh.shop.mi.com	203.100.92.69
+sslvpn.shop.mi.com	203.100.92.69
+sso.shop.mi.com	203.100.92.69
+staff.shop.mi.com	203.100.92.69
+stat.m.mi.com	203.100.93.109, 203.100.93.110
+stat.shop.mi.com	203.100.92.69
+static.g.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+static.home.mi.com	183.131.215.13, 183.131.215.17, 183.131.215.19, 183.131.215.20, 183.131.215.22, 183.131.215.23, 183.131.215.24, 183.131.215.25
+static.union.mi.com	101.227.102.164, 115.231.22.125, 183.131.168.145, 61.164.210.205
+static.shop.mi.com	203.100.92.69
+stats.shop.mi.com	203.100.92.69
+status.shop.mi.com	203.100.92.69
+stmp.shop.mi.com	203.100.92.69
+survey.shop.mi.com	203.100.92.69
+svn.shop.mi.com	203.100.92.69
+sys.shop.mi.com	203.100.92.69
+system.shop.mi.com	203.100.92.69
+t.shop.mi.com	203.100.92.69
+test.shop.mi.com	203.100.92.69
+test2.shop.mi.com	203.100.92.69
+tool.shop.mi.com	203.100.92.69
+toolbox.shop.mi.com	203.100.92.69
+u.shop.mi.com	203.100.92.69
+union.shop.mi.com	203.100.92.69
+update.shop.mi.com	203.100.92.69
+update.pc.mi.com	117.48.116.126
+updates.shop.mi.com	203.100.92.69
+upgrade.shop.mi.com	203.100.92.69
+upload.dev.mi.com	117.48.116.204, 118.26.252.203
+upload.shop.mi.com	203.100.92.69
+upload.zb.mi.com	36.110.204.140
+upload.global.mi.com	13.228.115.37, 13.228.184.158, 18.138.196.41, 3.0.130.225, 52.76.176.250, 54.255.170.53
+user.shop.mi.com	203.100.92.69
+v.m.mi.com	183.134.19.1, 58.220.38.193, 58.220.38.194, 58.220.38.195, 58.220.38.196, 58.220.38.197, 61.147.231.65, 61.147.231.66, 61.147.231.67, 61.147.231.68, 61.147.231.69
+v.shop.mi.com	203.100.92.69
+v.id.mi.com	118.26.252.58, 203.100.92.186
+vip.shop.mi.com	203.100.92.69
+v.zb.mi.com	115.223.23.142, 115.223.23.254, 36.25.242.4, 58.216.109.180
+vote.shop.mi.com	203.100.92.69
+vpn.shop.mi.com	203.100.92.69
+vpn.p.mi.com	117.48.116.63, 118.26.252.95
+w.shop.mi.com	203.100.92.69
+wap.shop.mi.com	203.100.92.69
+web.b.mi.com	117.48.116.207, 118.26.252.207
+web.shop.mi.com	203.100.92.69
+webht.shop.mi.com	203.100.92.69
+wechat.zb.mi.com	203.100.92.45
+wechat.shop.mi.com	203.100.92.69
+wei.shop.mi.com	203.100.92.69
+weixin.shop.mi.com	203.100.92.69
+weixin.zb.mi.com	203.100.92.45
+wiki.shop.mi.com	203.100.92.69
+www.shop.mi.com	203.100.92.69
+wx.shop.mi.com	203.100.92.69
+x.shop.mi.com	203.100.92.69
+xml.shop.mi.com	203.100.92.69
+y.shop.mi.com	203.100.92.69
+z.shop.mi.com	203.100.92.69
+zabbix.shop.mi.com	203.100.92.69
+zhidao.shop.mi.com	203.100.92.69
+zimbra.shop.mi.com	203.100.92.69
+zip.shop.mi.com	203.100.92.69

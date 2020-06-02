@@ -1,0 +1,102 @@
+3g.huawei.com	211.100.15.172
+adt.huawei.com	103.218.216.176
+air.huawei.com	45.249.212.93
+app.huawei.com	45.249.212.91
+ap.huawei.com	203.82.64.150
+avatar.huawei.com	45.249.213.57
+av.huawei.com	119.145.15.193, 58.251.153.201
+b2b.huawei.com	103.218.216.65
+api.huawei.com	117.78.36.25
+billing.huawei.com	119.3.7.90
+blog.huawei.com	125.56.200.181, 23.32.241.154
+c.huawei.com	101.227.97.201, 36.25.241.160
+cd.huawei.com	103.218.216.78
+cloud.huawei.com	49.4.20.65, 49.4.37.249
+club.huawei.com	117.78.24.34, 117.78.24.39, 117.78.24.42
+consumer.huawei.com	101.227.97.201, 61.164.210.207
+css.huawei.com	195.68.180.141
+d.huawei.com	103.218.216.78
+data.huawei.com	211.100.15.165
+dev.huawei.com	101.227.102.164, 121.46.248.88
+developer.huawei.com	121.46.248.88
+developers.huawei.com	121.46.248.88
+download.huawei.com	115.223.8.143, 183.134.12.74
+easy.huawei.com	187.93.127.101
+e.huawei.com	121.46.248.114, 121.46.248.98
+edu.huawei.com	43.254.0.94
+edm.huawei.com	142.0.160.10
+ent.huawei.com	202.104.151.211
+exchange.huawei.com	218.17.215.163
+events.huawei.com	45.249.212.253
+finance.huawei.com	45.249.212.174
+enterprise.huawei.com	121.46.248.114, 121.46.248.98
+forum.huawei.com	101.227.97.201, 36.25.241.160
+ftp.huawei.com	45.249.212.225
+gaia.huawei.com	45.249.212.246
+geo.huawei.com	94.125.27.3
+hcs.huawei.com	58.255.93.170
+hosting.huawei.com	119.145.9.202
+idc.huawei.com	103.218.216.176
+is.huawei.com	61.144.161.101
+jade.huawei.com	103.218.216.219
+isc.huawei.com	45.249.213.40
+learning.huawei.com	45.249.212.124
+mail.huawei.com	119.145.14.75
+market.huawei.com	45.249.212.100
+m.huawei.com	121.46.248.114, 121.46.248.98
+mft.huawei.com	103.218.216.182
+mobile.huawei.com	45.249.212.90
+mx5.huawei.com	103.218.216.136
+mx1.huawei.com	119.145.14.94
+mx2.huawei.com	58.251.152.94
+mx6.huawei.com	185.176.76.214
+mx4.huawei.com	194.213.3.170
+multimedia.huawei.com	45.249.212.97
+newsletter.huawei.com	91.197.72.25
+oauth.huawei.com	45.249.212.75
+open.huawei.com	172.168.1.1
+ows.huawei.com	52.80.44.145
+partner.huawei.com	115.223.7.248, 61.164.210.207
+pk.huawei.com	202.125.152.170
+radar.huawei.com	45.249.212.137
+ris.huawei.com	45.249.212.154
+roma.huawei.com	114.116.1.67
+rms.huawei.com	45.249.212.121
+pr.huawei.com	116.66.184.103
+sec.huawei.com	45.249.212.170
+scm.huawei.com	45.249.212.71
+security.huawei.com	45.249.213.32
+scs.huawei.com	45.249.212.89
+sip.huawei.com	52.113.64.147
+solar.huawei.com	45.249.213.32
+sps.huawei.com	45.249.212.97
+store.huawei.com	119.145.9.159
+support.huawei.com	101.227.97.201, 36.25.241.160
+survey.huawei.com	211.149.228.10
+tcs.huawei.com	45.249.212.106
+terminal.huawei.com	45.249.212.100
+shop.huawei.com	121.46.248.114, 121.46.248.98
+tts.huawei.com	57.66.76.20
+uc.huawei.com	221.226.97.205
+wa.huawei.com	115.223.7.248, 61.164.210.207
+vpn.huawei.com	45.249.212.96
+wap.huawei.com	45.249.212.95
+vod.huawei.com	45.249.212.44
+wap1.huawei.com	45.249.212.95
+www.huawei.com	121.46.248.114, 121.46.248.98
+www1.huawei.com	121.46.247.252, 121.46.248.114
+admin.hcs.huawei.com	58.255.93.170
+api.cloud.huawei.com	49.4.19.60, 49.4.37.107
+app.edm.huawei.com	142.0.160.14
+app.events.huawei.com	115.223.7.248, 61.164.210.207
+auth.hcs.huawei.com	58.255.93.170
+auth.sec.huawei.com	45.249.212.170
+console.hcs.huawei.com	58.255.93.170
+docs.hcs.huawei.com	58.255.93.170
+forum.open.huawei.com	205.177.226.78
+id.cloud.huawei.com	49.4.19.128, 49.4.42.176
+img.billing.huawei.com	119.3.7.90
+login.cloud.huawei.com	49.4.19.57, 49.4.45.82
+mail.ap.huawei.com	203.82.64.150
+manage.hcs.huawei.com	58.255.93.170
+portal.hcs.huawei.com	58.255.93.170

@@ -1,0 +1,32 @@
+bbs.creditease.cn	36.110.135.130
+brand.creditease.cn	101.254.241.96, 117.122.213.197
+campus.creditease.cn	122.228.238.10, 58.58.81.209
+collection.creditease.cn	39.155.251.252
+college.creditease.cn	117.122.213.43
+crm.creditease.cn	117.122.213.171
+di.creditease.cn	113.209.197.130
+email.creditease.cn	123.58.253.4
+english.creditease.cn	101.254.241.94
+fp.creditease.cn	36.110.135.130
+fs.creditease.cn	117.122.213.252
+icp.creditease.cn	111.207.203.241, 118.145.13.88, 219.143.6.241
+im.creditease.cn	123.58.253.8
+jobs.creditease.cn	122.228.238.10, 58.58.81.209
+m.creditease.cn	117.122.213.197
+mailing.creditease.cn	67.134.222.254, 8.23.247.244, 8.33.184.254
+mc.creditease.cn	101.254.100.48
+mf.creditease.cn	101.254.241.96
+msoid.creditease.cn	42.159.132.138, 42.159.133.17, 42.159.233.91, 42.159.237.146
+nd.creditease.cn	101.254.241.78
+oc.creditease.cn	117.122.213.245
+security.creditease.cn	117.122.213.73
+service.creditease.cn	101.254.241.78
+sms.creditease.cn	117.122.213.48
+sogou.creditease.cn	117.122.213.43
+user.creditease.cn	122.228.238.10, 58.58.81.209
+vc.creditease.cn	117.122.213.254
+video.creditease.cn	101.254.241.78, 117.122.213.188
+vod.creditease.cn	123.58.253.22
+www.creditease.cn	101.254.241.96
+b.mailing.creditease.cn	63.232.57.15, 63.232.57.254
+f.mailing.creditease.cn	63.148.46.58, 63.149.195.11, 63.149.195.12, 63.211.90.248, 63.211.90.252, 8.23.247.248

@@ -1,0 +1,50 @@
+api.tutorabc.com.cn	121.46.248.96, 122.224.186.196
+cn.tutorabc.com.cn	114.141.155.198
+consultant.tutorabc.com.cn	183.91.154.229
+ct.tutorabc.com.cn	118.126.54.110
+customer.tutorabc.com.cn	183.91.158.2
+emc.tutorabc.com.cn	118.126.54.82
+h5.tutorabc.com.cn	118.126.54.90
+gw.tutorabc.com.cn	183.91.156.42
+jd.tutorabc.com.cn	183.91.146.240
+lp.tutorabc.com.cn	101.227.99.3
+m1.tutorabc.com.cn	183.91.157.204
+m2.tutorabc.com.cn	183.91.157.205
+m3.tutorabc.com.cn	183.91.157.206
+m.tutorabc.com.cn	183.91.157.211
+mail.tutorabc.com.cn	220.248.102.77
+member.tutorabc.com.cn	121.46.247.252, 121.46.248.114, 121.46.248.98
+mob.tutorabc.com.cn	118.126.54.217
+msg.tutorabc.com.cn	218.97.29.250
+oa.tutorabc.com.cn	218.97.29.251
+ocs.tutorabc.com.cn	118.126.54.217
+open.tutorabc.com.cn	118.126.54.217
+order.tutorabc.com.cn	183.91.156.42
+passport.tutorabc.com.cn	121.46.247.252, 121.46.248.114, 121.46.248.98
+pay.tutorabc.com.cn	218.97.23.21
+payment.tutorabc.com.cn	218.97.23.21
+product.tutorabc.com.cn	183.91.156.42
+recruit.tutorabc.com.cn	183.91.154.223
+res.tutorabc.com.cn	218.97.29.250
+reseller.tutorabc.com.cn	183.91.156.59
+s3.tutorabc.com.cn	118.126.54.113
+scholar.tutorabc.com.cn	183.91.156.42
+sec.tutorabc.com.cn	183.91.151.136
+source.tutorabc.com.cn	101.227.102.88, 121.46.247.254
+spam.tutorabc.com.cn	220.248.102.76
+t.tutorabc.com.cn	218.97.29.229
+video.tutorabc.com.cn	210.5.25.22
+weixin.tutorabc.com.cn	183.91.146.240
+www2.tutorabc.com.cn	183.91.157.198
+www11.tutorabc.com.cn	183.91.158.22
+www.tutorabc.com.cn	101.227.99.3
+www1.tutorabc.com.cn	183.91.157.197
+www3.tutorabc.com.cn	183.91.157.199
+www4.tutorabc.com.cn	183.91.158.16
+www5.tutorabc.com.cn	183.91.158.17
+wx.tutorabc.com.cn	218.97.29.229
+www6.tutorabc.com.cn	183.91.158.18
+www7.tutorabc.com.cn	183.91.158.19
+www8.tutorabc.com.cn	183.91.158.20
+www9.tutorabc.com.cn	210.71.158.45
+wx.member.tutorabc.com.cn	183.91.146.250

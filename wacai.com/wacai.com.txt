@@ -1,0 +1,32 @@
+8.wacai.com	115.236.46.5
+api.wacai.com	115.236.46.5
+asset.wacai.com	115.236.46.5
+bbs.wacai.com	115.236.46.5
+blackhole.wacai.com	115.236.46.5
+cdn.wacai.com	183.134.101.248, 183.134.101.250
+common.wacai.com	115.236.46.5
+credit.wacai.com	115.236.46.5
+file.wacai.com	115.236.46.5
+fund.wacai.com	115.236.46.5
+help.wacai.com	115.236.46.5
+img.wacai.com	115.236.46.5
+job.wacai.com	47.95.46.1
+jz.wacai.com	115.236.46.5
+kd.wacai.com	115.236.46.5
+m.wacai.com	115.236.46.5
+mail.wacai.com	183.131.22.149
+market.wacai.com	115.236.46.5
+money.wacai.com	115.236.46.5
+open.wacai.com	115.236.46.5
+pay.wacai.com	115.236.46.5
+pf.wacai.com	115.236.46.5
+sec.wacai.com	118.178.226.28
+site.wacai.com	115.236.46.5
+sites.wacai.com	122.224.238.66, 122.224.238.67, 122.224.238.68, 122.224.238.69, 122.224.238.70, 122.224.238.71, 122.224.238.73, 122.224.238.74, 122.224.238.75, 122.224.238.76, 122.224.238.77, 183.129.221.4, 183.129.221.5
+store.wacai.com	115.236.46.1
+stock.wacai.com	115.236.46.5
+user.wacai.com	115.236.46.5
+vip.wacai.com	115.236.46.5
+webmail.wacai.com	183.131.22.149
+www.wacai.com	115.236.46.5
+zf.wacai.com	115.236.46.5

@@ -1,0 +1,278 @@
+ac.vivo.com.cn	120.77.125.2
+account.vivo.com.cn	58.67.199.165
+act.vivo.com.cn	120.78.21.71
+ad.vivo.com.cn	119.254.237.180
+album.vivo.com.cn	114.236.140.115, 115.223.23.233, 115.223.23.234, 115.231.31.192, 150.138.105.96, 150.138.173.151, 183.134.54.225, 183.134.56.193, 49.79.234.231, 58.220.71.122, 58.223.164.158, 59.62.9.164, 61.147.225.184
+antispam.vivo.com.cn	117.50.85.22
+as.vivo.com.cn	218.16.99.180, 58.252.0.19
+auth.vivo.com.cn	119.254.203.132
+b.vivo.com.cn	182.92.255.40
+bbs.vivo.com.cn	117.50.85.154
+camera.vivo.com.cn	117.50.83.67
+club.vivo.com.cn	120.78.21.71
+cloud.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+cms.vivo.com.cn	117.50.85.120
+comm.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+cpd.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+crm.vivo.com.cn	118.178.112.51
+d.vivo.com.cn	114.236.140.114, 115.223.23.233, 115.223.23.234, 115.223.23.235, 150.138.173.151, 183.134.56.192, 58.220.71.120, 58.220.71.122, 58.222.42.136, 59.62.9.164, 61.147.210.244, 61.147.225.186, 61.147.225.189
+designer.vivo.com.cn	119.254.237.97
+developer.vivo.com.cn	117.50.83.47
+dev.vivo.com.cn	119.254.237.40
+download1.vivo.com.cn	106.225.201.245, 114.236.88.246, 115.223.12.216, 115.223.23.232, 115.223.3.224, 115.223.3.225, 122.228.25.64, 122.228.25.71, 122.228.26.99, 180.97.218.25, 183.134.56.194, 58.220.76.224, 59.62.9.165
+e.vivo.com.cn	119.254.237.172
+es.vivo.com.cn	47.96.196.23
+event.vivo.com.cn	120.78.21.71
+events.vivo.com.cn	120.78.21.71
+faq.vivo.com.cn	101.227.102.216, 115.231.31.196
+files.vivo.com.cn	101.227.102.216, 36.25.244.133
+fp.vivo.com.cn	117.50.85.148
+game.vivo.com.cn	101.227.98.128, 114.236.88.247, 115.223.23.233, 115.231.31.197, 115.231.75.204, 150.138.105.96, 183.134.56.192, 183.134.56.193, 49.79.234.231, 58.223.164.158, 61.147.210.244, 61.147.210.245, 61.147.225.186
+gallery.vivo.com.cn	101.227.98.128, 114.236.140.114, 114.236.140.115, 114.236.88.247, 115.223.23.233, 150.138.173.151, 183.134.54.225, 58.220.71.120, 58.220.71.122, 59.62.9.164, 61.147.210.244, 61.147.225.186, 61.147.225.189
+hd.vivo.com.cn	120.78.21.71
+hr.vivo.com.cn	218.16.99.183, 58.252.0.22
+id.vivo.com.cn	119.254.237.179
+join.vivo.com.cn	218.16.99.180
+lp.vivo.com.cn	101.227.102.216, 115.231.31.196
+mall.vivo.com.cn	58.67.204.5
+mai.vivo.com.cn	47.93.155.15
+m.vivo.com.cn	101.227.102.216, 36.25.244.133
+mail.vivo.com.cn	123.58.177.239
+md.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+member.vivo.com.cn	119.254.238.85
+mms.vivo.com.cn	114.236.140.114, 114.236.88.247, 115.223.23.233, 115.223.23.235, 115.231.75.204, 183.134.56.193, 49.79.234.231, 58.220.71.120, 58.222.42.136, 58.223.164.158, 61.147.210.244, 61.147.210.245, 61.147.225.189
+msg.vivo.com.cn	119.254.237.164
+music.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+mp.vivo.com.cn	101.227.98.128, 115.223.23.234, 115.231.75.204, 150.138.105.96, 150.138.173.151, 183.134.54.225, 183.134.56.193, 27.148.142.124, 58.223.164.158, 59.62.9.164, 61.147.210.244, 61.147.210.245, 61.147.225.189
+p.vivo.com.cn	139.196.60.200
+passport.vivo.com.cn	39.97.24.17
+pay.vivo.com.cn	182.92.254.222
+point.vivo.com.cn	101.227.98.128, 114.236.140.115, 114.236.88.247, 115.223.23.234, 115.223.23.235, 115.231.31.197, 150.138.173.151, 183.134.54.225, 183.134.56.193, 58.220.71.120, 58.220.71.122, 58.222.42.136, 61.147.225.184
+pop.vivo.com.cn	120.78.145.238
+push.vivo.com.cn	119.254.237.47
+s.vivo.com.cn	218.16.99.180
+sc.vivo.com.cn	120.78.18.177
+search.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+security.vivo.com.cn	117.50.85.2
+service.vivo.com.cn	120.78.18.177
+shop.vivo.com.cn	101.227.102.216, 115.231.31.196
+shop1.vivo.com.cn	101.227.102.216, 36.25.244.133
+sign.vivo.com.cn	117.50.85.153
+social.vivo.com.cn	120.78.18.177
+st.vivo.com.cn	101.227.98.128, 114.236.140.114, 114.236.88.247, 115.223.23.233, 115.223.23.234, 115.231.75.204, 49.79.234.231, 58.220.71.120, 58.222.42.136, 58.223.164.158, 61.147.210.245, 61.147.225.184, 61.147.225.189
+sso.vivo.com.cn	119.254.238.28
+ssp.vivo.com.cn	114.236.140.115, 115.223.23.233, 115.223.23.235, 115.231.31.192, 150.138.173.151, 49.79.234.231, 58.220.71.122, 58.222.42.136, 58.223.164.158, 59.62.9.164, 61.147.210.244, 61.147.225.184, 61.147.225.189
+stat.vivo.com.cn	120.78.18.177
+static.vivo.com.cn	101.227.102.216, 36.25.244.133
+stp.vivo.com.cn	101.227.98.128, 114.236.88.247, 115.223.23.233, 115.223.23.235, 115.231.31.197, 150.138.105.96, 183.134.54.225, 183.134.56.192, 183.134.56.193, 49.79.234.231, 58.222.42.136, 61.147.225.186, 61.147.225.189
+supply.vivo.com.cn	120.77.243.53
+t.vivo.com.cn	120.78.21.71
+subscribe.vivo.com.cn	101.227.98.128, 114.236.140.115, 115.223.23.234, 115.223.23.235, 115.231.31.192, 115.231.75.204, 150.138.173.151, 183.134.56.193, 49.79.234.231, 58.222.42.136, 59.62.9.164, 61.147.225.184, 61.147.225.186
+theme.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+tips.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+tongji.vivo.com.cn	120.78.18.177
+topic.vivo.com.cn	101.227.102.216, 115.231.31.196
+ue.vivo.com.cn	117.50.83.127
+up.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+video.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+vpn.vivo.com.cn	119.255.252.125
+weather.vivo.com.cn	114.236.140.114, 114.236.140.115, 114.236.88.247, 115.223.23.234, 150.138.105.96, 150.138.173.151, 183.134.56.192, 49.79.234.231, 58.220.71.122, 58.222.42.136, 58.223.164.158, 61.147.210.245, 61.147.225.189
+wechat.vivo.com.cn	119.254.238.131
+weixin.vivo.com.cn	120.78.244.243
+wf.vivo.com.cn	114.236.140.114, 114.236.88.247, 115.223.23.234, 115.223.23.235, 115.231.31.192, 183.134.56.193, 58.220.71.122, 58.222.42.136, 59.62.9.164, 61.147.210.245, 61.147.225.184, 61.147.225.186, 61.147.225.189
+wifi.vivo.com.cn	117.50.87.19
+www.vivo.com.cn	101.227.102.216, 115.231.31.196
+wx.vivo.com.cn	120.78.18.177
+yun.vivo.com.cn	117.50.83.100
+zs.vivo.com.cn	120.78.244.243
+1.crm.vivo.com.cn	118.178.112.51
+0.crm.vivo.com.cn	118.178.112.51
+2.crm.vivo.com.cn	118.178.112.51
+3.crm.vivo.com.cn	118.178.112.51
+3g.crm.vivo.com.cn	118.178.112.51
+4.crm.vivo.com.cn	118.178.112.51
+5.crm.vivo.com.cn	118.178.112.51
+6.crm.vivo.com.cn	118.178.112.51
+7.crm.vivo.com.cn	118.178.112.51
+8.crm.vivo.com.cn	118.178.112.51
+9.crm.vivo.com.cn	118.178.112.51
+a.crm.vivo.com.cn	118.178.112.51
+activity.crm.vivo.com.cn	118.178.112.51
+adm.crm.vivo.com.cn	118.178.112.51
+admin.crm.vivo.com.cn	118.178.112.51
+adminht.crm.vivo.com.cn	118.178.112.51
+api.crm.vivo.com.cn	118.178.112.51
+app.crm.vivo.com.cn	118.178.112.51
+apps.crm.vivo.com.cn	118.178.112.51
+auth.crm.vivo.com.cn	118.178.112.51
+assets.crm.vivo.com.cn	118.178.112.51
+autodiscover.crm.vivo.com.cn	118.178.112.51
+b.crm.vivo.com.cn	118.178.112.51
+backup.crm.vivo.com.cn	118.178.112.51
+bata.crm.vivo.com.cn	118.178.112.51
+bbs.crm.vivo.com.cn	118.178.112.51
+beta.crm.vivo.com.cn	118.178.112.51
+blog.crm.vivo.com.cn	118.178.112.51
+boss.crm.vivo.com.cn	118.178.112.51
+bug.crm.vivo.com.cn	118.178.112.51
+bugs.crm.vivo.com.cn	118.178.112.51
+bugzilla.crm.vivo.com.cn	118.178.112.51
+c.crm.vivo.com.cn	118.178.112.51
+cache.crm.vivo.com.cn	118.178.112.51
+cas.crm.vivo.com.cn	118.178.112.51
+ceshi.crm.vivo.com.cn	118.178.112.51
+cms.crm.vivo.com.cn	118.178.112.51
+connect.crm.vivo.com.cn	118.178.112.51
+console.crm.vivo.com.cn	118.178.112.51
+control.crm.vivo.com.cn	118.178.112.51
+count.crm.vivo.com.cn	118.178.112.51
+counter.crm.vivo.com.cn	118.178.112.51
+cp.crm.vivo.com.cn	118.178.112.51
+crm.crm.vivo.com.cn	118.178.112.51
+css.crm.vivo.com.cn	118.178.112.51
+d.crm.vivo.com.cn	118.178.112.51
+data.crm.vivo.com.cn	118.178.112.51
+database.crm.vivo.com.cn	118.178.112.51
+db.crm.vivo.com.cn	118.178.112.51
+demo.crm.vivo.com.cn	118.178.112.51
+dev.crm.vivo.com.cn	118.178.112.51
+dev1.crm.vivo.com.cn	118.178.112.51
+dl.crm.vivo.com.cn	118.178.112.51
+docs.crm.vivo.com.cn	118.178.112.51
+down.crm.vivo.com.cn	118.178.112.51
+download.crm.vivo.com.cn	118.178.112.51
+downloads.crm.vivo.com.cn	118.178.112.51
+e.crm.vivo.com.cn	118.178.112.51
+edit.crm.vivo.com.cn	118.178.112.51
+edm.crm.vivo.com.cn	118.178.112.51
+en.crm.vivo.com.cn	118.178.112.51
+erp.crm.vivo.com.cn	118.178.112.51
+exchange.crm.vivo.com.cn	118.178.112.51
+f.crm.vivo.com.cn	118.178.112.51
+f.up.vivo.com.cn	114.80.149.157, 114.80.149.158, 114.80.149.159, 114.80.149.160
+feedback.crm.vivo.com.cn	118.178.112.51
+files.crm.vivo.com.cn	118.178.112.51
+files.shop.vivo.com.cn	101.227.102.216, 115.231.31.196
+forum.crm.vivo.com.cn	118.178.112.51
+ftp.crm.vivo.com.cn	118.178.112.51
+g.crm.vivo.com.cn	118.178.112.51
+gateway.crm.vivo.com.cn	118.178.112.51
+git.crm.vivo.com.cn	118.178.112.51
+gm.crm.vivo.com.cn	118.178.112.51
+go.crm.vivo.com.cn	118.178.112.51
+help.crm.vivo.com.cn	118.178.112.51
+h.crm.vivo.com.cn	118.178.112.51
+home.crm.vivo.com.cn	118.178.112.51
+ht.crm.vivo.com.cn	118.178.112.51
+i.crm.vivo.com.cn	118.178.112.51
+id.crm.vivo.com.cn	118.178.112.51
+image.crm.vivo.com.cn	118.178.112.51
+imap.crm.vivo.com.cn	118.178.112.51
+img.crm.vivo.com.cn	118.178.112.51
+img01.crm.vivo.com.cn	118.178.112.51
+img02.crm.vivo.com.cn	118.178.112.51
+img03.crm.vivo.com.cn	118.178.112.51
+img04.crm.vivo.com.cn	118.178.112.51
+it.crm.vivo.com.cn	118.178.112.51
+j.crm.vivo.com.cn	118.178.112.51
+jira.crm.vivo.com.cn	118.178.112.51
+js.crm.vivo.com.cn	118.178.112.51
+k.crm.vivo.com.cn	118.178.112.51
+lab.crm.vivo.com.cn	118.178.112.51
+ldap.crm.vivo.com.cn	118.178.112.51
+lib.crm.vivo.com.cn	118.178.112.51
+library.crm.vivo.com.cn	118.178.112.51
+list.crm.vivo.com.cn	118.178.112.51
+live.crm.vivo.com.cn	118.178.112.51
+lm.crm.vivo.com.cn	118.178.112.51
+log.crm.vivo.com.cn	118.178.112.51
+login.crm.vivo.com.cn	118.178.112.51
+manage.crm.vivo.com.cn	118.178.112.51
+manager.crm.vivo.com.cn	118.178.112.51
+master.crm.vivo.com.cn	118.178.112.51
+mgr.crm.vivo.com.cn	118.178.112.51
+mail.crm.vivo.com.cn	118.178.112.51
+monitor.crm.vivo.com.cn	118.178.112.51
+mysql.crm.vivo.com.cn	118.178.112.51
+n.crm.vivo.com.cn	118.178.112.51
+nagios.crm.vivo.com.cn	118.178.112.51
+new.crm.vivo.com.cn	118.178.112.51
+o.crm.vivo.com.cn	118.178.112.51
+oa.crm.vivo.com.cn	118.178.112.51
+old.crm.vivo.com.cn	118.178.112.51
+p.crm.vivo.com.cn	118.178.112.51
+passport.crm.vivo.com.cn	118.178.112.51
+phpmyadmin.crm.vivo.com.cn	118.178.112.51
+pic.crm.vivo.com.cn	118.178.112.51
+pma.crm.vivo.com.cn	118.178.112.51
+pop.crm.vivo.com.cn	118.178.112.51
+portal.crm.vivo.com.cn	118.178.112.51
+preview.crm.vivo.com.cn	118.178.112.51
+profile.crm.vivo.com.cn	118.178.112.51
+proxy.crm.vivo.com.cn	118.178.112.51
+q.crm.vivo.com.cn	118.178.112.51
+r.crm.vivo.com.cn	118.178.112.51
+res.crm.vivo.com.cn	118.178.112.51
+s.crm.vivo.com.cn	118.178.112.51
+s1.crm.vivo.com.cn	118.178.112.51
+s2.crm.vivo.com.cn	118.178.112.51
+s3.crm.vivo.com.cn	118.178.112.51
+sandbox.crm.vivo.com.cn	118.178.112.51
+scanner.crm.vivo.com.cn	118.178.112.51
+search.crm.vivo.com.cn	118.178.112.51
+service.crm.vivo.com.cn	118.178.112.51
+share.crm.vivo.com.cn	118.178.112.51
+sms.crm.vivo.com.cn	118.178.112.51
+so.crm.vivo.com.cn	118.178.112.51
+sql.crm.vivo.com.cn	118.178.112.51
+ssh.crm.vivo.com.cn	118.178.112.51
+sslvpn.crm.vivo.com.cn	118.178.112.51
+sso.crm.vivo.com.cn	118.178.112.51
+staff.crm.vivo.com.cn	118.178.112.51
+stat.crm.vivo.com.cn	118.178.112.51
+static.crm.vivo.com.cn	118.178.112.51
+static.p.vivo.com.cn	101.227.102.216, 115.231.31.196
+stats.crm.vivo.com.cn	118.178.112.51
+status.crm.vivo.com.cn	118.178.112.51
+stmp.crm.vivo.com.cn	118.178.112.51
+svn.crm.vivo.com.cn	118.178.112.51
+survey.crm.vivo.com.cn	118.178.112.51
+sys.crm.vivo.com.cn	118.178.112.51
+system.crm.vivo.com.cn	118.178.112.51
+t.crm.vivo.com.cn	118.178.112.51
+test.bbs.vivo.com.cn	58.67.204.16
+test.crm.vivo.com.cn	118.178.112.51
+test.hr.vivo.com.cn	218.16.99.180, 58.252.0.19
+test2.crm.vivo.com.cn	118.178.112.51
+tool.crm.vivo.com.cn	118.178.112.51
+toolbox.crm.vivo.com.cn	118.178.112.51
+u.crm.vivo.com.cn	118.178.112.51
+union.crm.vivo.com.cn	118.178.112.51
+update.crm.vivo.com.cn	118.178.112.51
+updates.crm.vivo.com.cn	118.178.112.51
+upgrade.crm.vivo.com.cn	118.178.112.51
+upload.crm.vivo.com.cn	118.178.112.51
+user.crm.vivo.com.cn	118.178.112.51
+v.crm.vivo.com.cn	118.178.112.51
+vip.crm.vivo.com.cn	118.178.112.51
+vote.crm.vivo.com.cn	118.178.112.51
+vpn.crm.vivo.com.cn	118.178.112.51
+w.crm.vivo.com.cn	118.178.112.51
+wap.crm.vivo.com.cn	118.178.112.51
+w.up.vivo.com.cn	114.236.140.115, 114.236.88.247, 115.223.23.234, 115.223.23.235, 115.231.75.204, 150.138.173.151, 183.134.54.225, 183.134.56.193, 58.220.71.120, 58.223.164.158, 59.62.9.164, 61.147.210.244, 61.147.210.245
+web.crm.vivo.com.cn	118.178.112.51
+wechat.crm.vivo.com.cn	118.178.112.51
+webht.crm.vivo.com.cn	118.178.112.51
+wei.crm.vivo.com.cn	118.178.112.51
+weixin.crm.vivo.com.cn	118.178.112.51
+wiki.crm.vivo.com.cn	118.178.112.51
+www.crm.vivo.com.cn	118.178.112.51
+wx.crm.vivo.com.cn	118.178.112.51
+x.crm.vivo.com.cn	118.178.112.51
+xml.crm.vivo.com.cn	118.178.112.51
+y.crm.vivo.com.cn	118.178.112.51
+z.crm.vivo.com.cn	118.178.112.51
+zabbix.crm.vivo.com.cn	118.178.112.51
+zhidao.crm.vivo.com.cn	118.178.112.51
+zimbra.crm.vivo.com.cn	118.178.112.51
+zip.crm.vivo.com.cn	118.178.112.51

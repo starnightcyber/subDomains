@@ -1,0 +1,28 @@
+cloud.oppo.com	223.202.200.181
+drm.oppo.com	54.251.124.236
+dz.oppo.com	54.72.242.107
+eg.oppo.com	54.72.242.107
+exchange.oppo.com	123.58.177.239
+events.oppo.com	23.210.215.192, 23.210.215.200
+find.oppo.com	223.202.200.148
+fs.oppo.com	101.227.97.174, 121.46.248.88
+ftp.oppo.com	121.12.147.245
+global.oppo.com	52.221.63.58, 52.76.187.230
+hd.oppo.com	223.202.200.181
+id.oppo.com	223.202.216.130
+imap.oppo.com	115.236.118.100
+mail.oppo.com	123.58.177.120
+my.oppo.com	113.142.88.140, 61.147.228.243
+owa.oppo.com	52.77.188.252
+pop.oppo.com	52.74.19.11
+push.oppo.com	223.202.200.181
+security.oppo.com	113.142.88.140, 61.147.228.243
+shop.oppo.com	121.9.213.103
+smtp.oppo.com	123.58.177.48, 123.58.177.49, 123.58.177.85
+srm.oppo.com	113.105.184.117
+static.oppo.com	223.202.200.181
+store.oppo.com	223.202.200.181
+uc.oppo.com	52.77.76.44, 54.179.150.202
+www.oppo.com	223.202.200.181
+wx.oppo.com	223.202.200.181
+yun.oppo.com	223.202.200.148

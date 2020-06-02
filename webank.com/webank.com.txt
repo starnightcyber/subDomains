@@ -1,0 +1,42 @@
+acc.webank.com	115.159.109.232, 119.29.22.69, 119.29.26.93, 119.29.58.218, 182.254.225.224, 182.254.226.85
+ad.webank.com	139.199.92.67
+c.webank.com	203.195.226.228
+card.webank.com	139.199.92.67
+cap.webank.com	203.195.226.238
+cm.webank.com	109.244.64.231, 118.126.119.231
+csm.webank.com	203.195.226.235
+ep.webank.com	119.29.106.224
+file.webank.com	139.199.237.210, 203.195.226.210, 203.195.227.210
+ftp.webank.com	203.195.226.212
+fs.webank.com	139.199.92.67
+ht.webank.com	203.195.226.246
+hr.webank.com	211.159.212.166
+ics.webank.com	139.199.92.67
+ias.webank.com	109.244.64.243, 118.126.119.243
+jd.webank.com	203.195.227.238
+mall.webank.com	139.199.92.67
+mc.webank.com	203.195.226.227
+mm.webank.com	119.29.184.114
+moa.webank.com	119.29.80.181
+mx1.webank.com	119.29.184.114
+mx3.webank.com	115.159.40.139
+mx2.webank.com	123.207.15.209
+open.webank.com	139.199.237.215, 203.195.226.215, 203.195.227.215
+pac.webank.com	139.199.205.170
+personal.webank.com	203.195.226.226, 203.195.227.226
+pms.webank.com	203.195.226.240
+qq.webank.com	203.195.226.226, 203.195.227.226
+rec.webank.com	193.112.231.33
+res.webank.com	139.199.237.215, 203.195.226.215, 203.195.227.215
+sandbox.webank.com	139.199.92.151
+security.webank.com	101.91.80.170
+sg.webank.com	203.195.226.238
+sme.webank.com	203.195.226.227
+trace.webank.com	109.244.64.242, 118.126.119.242
+trip.webank.com	111.230.189.113
+w.webank.com	139.199.92.67
+vpn.webank.com	123.206.211.21
+ws.webank.com	139.199.92.67
+www.webank.com	111.230.163.144, 211.159.212.166
+wx.webank.com	193.112.231.33, 193.112.232.253
+zhao.webank.com	111.230.163.144, 211.159.212.166

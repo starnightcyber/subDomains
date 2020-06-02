@@ -1,0 +1,2 @@
+api.bugx.io
+www.bugx.io

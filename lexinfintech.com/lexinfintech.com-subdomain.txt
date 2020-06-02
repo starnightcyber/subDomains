@@ -1,0 +1,16 @@
+vpn.lexinfintech.com
+security.lexinfintech.com
+webmail.lexinfintech.com
+gy.lexinfintech.com
+ir.lexinfintech.com
+www.lexinfintech.com
+fl.lexinfintech.com
+mx.lexinfintech.com
+smtp.lexinfintech.com
+imap.lexinfintech.com
+challenge.lexinfintech.com
+m.lexinfintech.com
+zhaopin.lexinfintech.com
+test.lexinfintech.com
+res.lexinfintech.com
+mail.lexinfintech.com

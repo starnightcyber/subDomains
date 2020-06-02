@@ -1,0 +1,9 @@
+api.butian.net
+zone.butian.net
+mail.butian.net
+vod.butian.net
+www.butian.net
+smtp.butian.net
+imap.butian.net
+user.butian.net
+m.butian.net

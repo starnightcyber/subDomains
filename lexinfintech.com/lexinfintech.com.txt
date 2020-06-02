@@ -1,0 +1,16 @@
+challenge.lexinfintech.com	58.67.214.173
+fl.lexinfintech.com	180.101.153.104, 180.101.153.115, 180.101.217.115, 180.101.217.117, 180.101.217.119, 180.101.217.205, 180.101.217.232, 180.101.217.236, 180.96.1.179, 180.96.1.91, 180.97.146.116, 180.97.146.207, 180.97.146.98, 221.228.67.182, 222.186.49.82
+gy.lexinfintech.com	115.159.189.222, 123.206.22.43
+imap.lexinfintech.com	218.17.197.165
+ir.lexinfintech.com	23.2.128.214
+m.lexinfintech.com	115.159.189.222, 123.206.22.43
+mail.lexinfintech.com	218.17.197.165
+mx.lexinfintech.com	218.17.197.165
+res.lexinfintech.com	115.159.189.222, 123.206.22.43
+security.lexinfintech.com	120.77.77.36
+smtp.lexinfintech.com	218.17.197.165
+test.lexinfintech.com	218.17.197.165
+vpn.lexinfintech.com	218.17.197.170
+webmail.lexinfintech.com	218.17.197.174
+www.lexinfintech.com	115.159.189.222, 123.206.22.43
+zhaopin.lexinfintech.com	47.95.46.1

@@ -1,0 +1,108 @@
+a3.sf-express.com	218.17.32.70
+acs.sf-express.com	219.134.187.198
+act.sf-express.com	218.18.162.103
+ai.sf-express.com	218.17.224.163
+airport.sf-express.com	123.58.49.243
+ams.sf-express.com	218.18.162.73
+api.sf-express.com	202.66.140.166
+b2c.sf-express.com	118.89.75.125
+bao.sf-express.com	203.195.142.86
+campus.sf-express.com	218.17.224.143
+cbt.sf-express.com	203.195.195.158
+ccs.sf-express.com	202.104.123.200
+ces.sf-express.com	218.17.224.166
+cloud.sf-express.com	218.18.162.69
+cod.sf-express.com	111.230.218.195
+cp.sf-express.com	129.204.97.17
+cs.sf-express.com	219.134.187.220
+csp.sf-express.com	219.134.187.252
+csm.sf-express.com	218.17.224.114
+css.sf-express.com	14.21.71.107
+culture.sf-express.com	14.21.71.23
+data.sf-express.com	119.147.212.60
+dc.sf-express.com	219.134.187.151
+df.sf-express.com	202.104.123.210
+disk.sf-express.com	14.215.129.15
+dm.sf-express.com	119.147.212.19
+dss.sf-express.com	14.21.71.24
+e.sf-express.com	218.18.162.119
+ecs.sf-express.com	218.17.131.179
+ess.sf-express.com	218.17.32.50
+esp.sf-express.com	193.112.116.133
+ex.sf-express.com	218.18.162.78
+exmail.sf-express.com	14.215.129.12
+ftp1.sf-express.com	119.147.212.68
+ftp.sf-express.com	202.66.140.173
+fusion.sf-express.com	218.17.130.130
+gis.sf-express.com	14.21.71.63
+gn.sf-express.com	14.21.71.94
+helpdesk.sf-express.com	218.17.130.104
+i.sf-express.com	115.231.23.25
+hr.sf-express.com	202.103.150.108
+ibs.sf-express.com	218.17.224.192
+intl.sf-express.com	218.18.162.21
+jf.sf-express.com	119.28.230.123, 119.28.34.96
+kf.sf-express.com	218.17.224.159
+kr.sf-express.com	118.218.217.195
+mail.sf-express.com	111.230.163.237
+meeting.sf-express.com	219.134.187.145
+mkt.sf-express.com	210.5.191.118
+mp.sf-express.com	111.230.163.79
+mps.sf-express.com	183.62.100.202
+mx2.sf-express.com	14.215.129.13
+mx3.sf-express.com	218.17.130.56
+mx4.sf-express.com	218.17.130.57
+mx1.sf-express.com	14.215.129.12
+ns1.sf-express.com	202.66.140.174
+ns4.sf-express.com	218.17.224.142
+ns5.sf-express.com	218.17.130.30
+ns.sf-express.com	202.66.140.173
+ntp.sf-express.com	218.17.224.69
+ns2.sf-express.com	219.134.187.226
+ns3.sf-express.com	218.17.224.68
+oms.sf-express.com	118.89.13.36, 118.89.13.37, 211.159.138.59, 211.159.138.60
+open.sf-express.com	218.17.224.176
+origin.sf-express.com	218.17.224.196
+ows.sf-express.com	219.134.187.154
+p.sf-express.com	218.17.224.145
+partner.sf-express.com	183.62.100.222
+passport.sf-express.com	118.89.13.34, 118.89.13.35, 211.159.138.46, 211.159.138.53
+pop.sf-express.com	219.134.187.235
+post.sf-express.com	182.254.221.108
+pss.sf-express.com	118.89.13.36, 118.89.13.37, 211.159.138.59, 211.159.138.60
+ris.sf-express.com	14.21.71.55
+root.sf-express.com	14.21.71.98
+scm.sf-express.com	218.17.224.154
+scp.sf-express.com	118.89.13.36, 118.89.13.37, 211.159.138.59, 211.159.138.60
+search.sf-express.com	219.134.187.235
+sds.sf-express.com	111.230.121.166, 115.159.132.185, 118.25.171.185, 193.112.84.17
+ses.sf-express.com	218.17.224.36
+sg.sf-express.com	115.42.211.32
+sms.sf-express.com	202.103.150.72
+smc.sf-express.com	58.61.142.164
+smtp.sf-express.com	219.134.187.235
+sps.sf-express.com	218.17.32.35
+srs.sf-express.com	119.29.43.197
+ssp.sf-express.com	219.134.187.216
+sss.sf-express.com	218.17.224.92
+store.sf-express.com	183.62.100.226
+tc.sf-express.com	118.89.13.36, 118.89.13.37, 211.159.138.59, 211.159.138.60
+trace.sf-express.com	218.18.161.84
+track.sf-express.com	218.18.161.84
+tw.sf-express.com	219.87.80.7
+uni.sf-express.com	218.17.224.53
+update.sf-express.com	180.101.153.104, 180.101.153.115, 180.101.217.115, 180.101.217.117, 180.101.217.119, 180.101.217.205, 180.101.217.232, 180.101.217.236, 180.96.1.179, 180.96.1.91, 180.97.146.116, 180.97.146.207, 180.97.146.98, 221.228.67.182, 222.186.49.82
+v.sf-express.com	14.21.71.57
+video.sf-express.com	218.17.224.197
+vip.sf-express.com	119.147.212.120
+vis.sf-express.com	218.17.32.52
+voice.sf-express.com	218.17.224.32
+w1.sf-express.com	219.134.187.147
+w2.sf-express.com	219.134.187.146
+webapp.sf-express.com	202.66.140.162
+webmail.sf-express.com	111.230.207.62
+webdisk.sf-express.com	14.215.129.20
+wms.sf-express.com	118.89.13.36, 118.89.13.37, 211.159.138.59, 211.159.138.60
+wp.sf-express.com	218.18.162.44
+www.sf-express.com	101.227.99.235, 45.124.126.14
+www1.sf-express.com	202.66.140.171
